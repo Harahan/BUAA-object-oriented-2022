@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="homework3:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/homework3_jar</output-path>
+    <root id="archive" name="homework3.jar">
+      <element id="module-output" name="homework3" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../homework_15-main/U4T3/U4T3.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

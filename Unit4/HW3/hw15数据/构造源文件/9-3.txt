@@ -1,0 +1,11 @@
+{"_parent":"AAAAAAFF+h6SjaM2Hec=","name":"StateMachine3","_type":"UMLStateMachine","_id":"AAAAAAGBnjqHIrgvU5E="}
+{"_parent":"AAAAAAGBnjqHIrgvU5E=","visibility":"public","name":null,"_type":"UMLRegion","_id":"AAAAAAGBnjqHI7gwO+E="}
+{"_parent":"AAAAAAGBnjqHI7gwO+E=","visibility":"public","name":null,"_type":"UMLPseudostate","_id":"AAAAAAGBnjqcELg2Z9c="}
+{"_parent":"AAAAAAGBnjqHI7gwO+E=","visibility":"public","name":null,"_type":"UMLFinalState","_id":"AAAAAAGBnjqilrhHAKQ="}
+{"_parent":"AAAAAAGBnjqHI7gwO+E=","visibility":"public","name":null,"_type":"UMLFinalState","_id":"AAAAAAGBnjrLNrhMdCQ="}
+{"_parent":"AAAAAAGBnjqHI7gwO+E=","visibility":"public","guard":"c","name":null,"_type":"UMLTransition","_id":"AAAAAAGBnjucS7hRpU4=","source":"AAAAAAGBnjqcELg2Z9c=","target":"AAAAAAGBnjrLNrhMdCQ="}
+{"_parent":"AAAAAAGBnjucS7hRpU4=","expression":null,"visibility":"public","name":"a","_type":"UMLEvent","_id":"AAAAAAGBnjvNrbh3SSw=","value":null}
+{"_parent":"AAAAAAGBnjqHI7gwO+E=","visibility":"public","guard":"b","name":null,"_type":"UMLTransition","_id":"AAAAAAGBnjulCrhipM4=","source":"AAAAAAGBnjqcELg2Z9c=","target":"AAAAAAGBnjqilrhHAKQ="}
+{"_parent":"AAAAAAGBnjulCrhipM4=","expression":null,"visibility":"public","name":"a","_type":"UMLEvent","_id":"AAAAAAGBnjvAqbh0jiI=","value":null}
+END_OF_MODEL
+CLASS_COUNT

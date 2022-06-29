@@ -1,0 +1,74 @@
+@startuml
+'https://plantuml.com/sequence-diagram
+
+autonumber
+
+participant Main as m
+participant InputHandler as i
+participant WAIT_QUEUE as w
+participant Controller as c
+participant Dispatcher as d
+participant RequestQueue as r
+participant Elevator as e
+participant Strategy as s
+
+== initialize ==
+m->i : start
+activate i
+activate m
+i->c : start
+activate c
+c->d : <<create>>
+d->e : start
+activate e
+deactivate m
+destroy m
+== addRequest ==
+i->w : addRequest
+w->c : notifyAll
+w<-c : getRequest
+w-->c
+c->c : addTaskNum
+c->d : allocateRequest
+d->r : addRequest
+r->e : notifyAll
+== Process ==
+e->r : check isAlive and isEmpty
+r-->e
+alt  !isEmpty
+    s->r : getRequests
+    s<--r
+    e->s : whoToPickUp
+    e<--s
+    e->e : PickUp
+    e->s : whichDir
+    e<--s
+    e->e : MoveTo
+    alt !isArrived
+        e-> w : addRequest
+        w->c : notifyAll
+    else isArrived
+        e->c : addFinishNum
+    end
+else isAlive && isEmpty
+    e->e : wait
+else !isAlive && isEmpty
+    e->e : setEnd
+end
+== End ==
+i->c : setInputEnd
+destroy i
+
+alt InputEnd && finishNum == taskNum
+    c->w : setEnd
+    w->c : notifyAll
+    c->d : setEnd
+    d->r : setEnd
+    r->e : notifyAll
+end
+destroy c
+deactivate i
+deactivate c
+deactivate e
+destroy e
+@enduml

@@ -1,0 +1,5 @@
+[25092] Failed to execute script 'datainput' due to unhandled exception!
+Traceback (most recent call last):
+  File "datainput.py", line 25, in <module>
+  File "datainput.py", line 14, in testOneSample
+KeyboardInterrupt

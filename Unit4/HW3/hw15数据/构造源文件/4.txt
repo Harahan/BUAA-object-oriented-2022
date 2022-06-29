@@ -1,0 +1,15 @@
+{"_parent":"AAAAAAFF+qBWK6M3Z8Y=","visibility":"public","name":"Interface1","_type":"UMLInterface","_id":"AAAAAAGBniaSBV6248g="}
+{"_parent":"AAAAAAGBniaSBV6248g=","name":null,"_type":"UMLGeneralization","_id":"AAAAAAGBnie4\/180tD8=","source":"AAAAAAGBniaSBV6248g=","target":"AAAAAAGBniafyl8ICls="}
+{"_parent":"AAAAAAGBniaSBV6248g=","name":null,"_type":"UMLGeneralization","_id":"AAAAAAGBnifEjl9FZgA=","source":"AAAAAAGBniaSBV6248g=","target":"AAAAAAGBniaYpV7fPYA="}
+{"_parent":"AAAAAAGBniaSBV6248g=","name":null,"_type":"UMLGeneralization","_id":"AAAAAAGBnigG+V+qvB4=","source":"AAAAAAGBniaSBV6248g=","target":"AAAAAAGBnifOIV9W75U="}
+{"_parent":"AAAAAAGBniaSBV6248g=","name":null,"_type":"UMLGeneralization","_id":"AAAAAAGBnijgGGAIUl8=","source":"AAAAAAGBniaSBV6248g=","target":"AAAAAAGBnifXTV9\/roE="}
+{"_parent":"AAAAAAFF+qBWK6M3Z8Y=","visibility":"public","name":"Interface2","_type":"UMLInterface","_id":"AAAAAAGBniaYpV7fPYA="}
+{"_parent":"AAAAAAFF+qBWK6M3Z8Y=","visibility":"public","name":"Interface3","_type":"UMLInterface","_id":"AAAAAAGBniafyl8ICls="}
+{"_parent":"AAAAAAFF+qBWK6M3Z8Y=","visibility":"public","name":"Interface4","_type":"UMLInterface","_id":"AAAAAAGBnifOIV9W75U="}
+{"_parent":"AAAAAAGBnifOIV9W75U=","name":null,"_type":"UMLGeneralization","_id":"AAAAAAGBnij6PWBCSC4=","source":"AAAAAAGBnifOIV9W75U=","target":"AAAAAAGBnijud2AZIG4="}
+{"_parent":"AAAAAAGBnifOIV9W75U=","name":null,"_type":"UMLGeneralization","_id":"AAAAAAGBnikfVWBTytg=","source":"AAAAAAGBnifOIV9W75U=","target":"AAAAAAGBniafyl8ICls="}
+{"_parent":"AAAAAAFF+qBWK6M3Z8Y=","visibility":"public","name":"Interface5","_type":"UMLInterface","_id":"AAAAAAGBnifXTV9\/roE="}
+{"_parent":"AAAAAAFF+qBWK6M3Z8Y=","visibility":"public","name":"Interface6","_type":"UMLInterface","_id":"AAAAAAGBnijud2AZIG4="}
+{"_parent":"AAAAAAGBnijud2AZIG4=","name":null,"_type":"UMLGeneralization","_id":"AAAAAAGBnipEzX96buw=","source":"AAAAAAGBnijud2AZIG4=","target":"AAAAAAGBniafyl8ICls="}
+END_OF_MODEL
+CLASS_COUNT

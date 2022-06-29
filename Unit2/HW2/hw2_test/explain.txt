@@ -1,0 +1,2328 @@
+[2.8770]OPEN-A-1-6
+1 [] True 1 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [] True 1 A building
+7 [] True 1 A building
+[2.9060]IN-57-A-1-6
+1 [] True 1 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [] True 1 A building
+7 [] True 1 A building
+[2.9070]IN-58-A-1-6
+1 [] True 1 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [57] True 1 A building
+7 [] True 1 A building
+[2.9070]OPEN-A-1-1
+1 [] True 1 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [57, 58] True 1 A building
+7 [] True 1 A building
+[2.9070]IN-59-A-1-1
+1 [] True 1 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [57, 58] True 1 A building
+7 [] True 1 A building
+[2.9070]IN-60-A-1-6
+1 [59] True 1 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [57, 58] True 1 A building
+7 [] True 1 A building
+[2.9080]IN-61-A-1-6
+1 [59] True 1 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [57, 58, 60] True 1 A building
+7 [] True 1 A building
+[2.9080]IN-62-A-1-6
+1 [59] True 1 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [57, 58, 60, 61] True 1 A building
+7 [] True 1 A building
+[2.9080]IN-63-A-1-6
+1 [59] True 1 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [57, 58, 60, 61, 62] True 1 A building
+7 [] True 1 A building
+[2.9080]IN-64-A-1-1
+1 [59] True 1 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [57, 58, 60, 61, 62, 63] True 1 A building
+7 [] True 1 A building
+[2.9080]IN-65-A-1-1
+1 [59, 64] True 1 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [57, 58, 60, 61, 62, 63] True 1 A building
+7 [] True 1 A building
+[2.9090]IN-66-A-1-1
+1 [59, 64, 65] True 1 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [57, 58, 60, 61, 62, 63] True 1 A building
+7 [] True 1 A building
+[2.9090]IN-67-A-1-1
+1 [59, 64, 65, 66] True 1 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [57, 58, 60, 61, 62, 63] True 1 A building
+7 [] True 1 A building
+[2.9090]IN-68-A-1-1
+1 [59, 64, 65, 66, 67] True 1 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [57, 58, 60, 61, 62, 63] True 1 A building
+7 [] True 1 A building
+[2.9090]OPEN-A-1-7
+1 [59, 64, 65, 66, 67, 68] True 1 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [57, 58, 60, 61, 62, 63] True 1 A building
+7 [] True 1 A building
+[2.9090]IN-69-A-1-7
+1 [59, 64, 65, 66, 67, 68] True 1 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [57, 58, 60, 61, 62, 63] True 1 A building
+7 [] True 1 A building
+[2.9720]IN-2-A-1-7
+1 [59, 64, 65, 66, 67, 68] True 1 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [57, 58, 60, 61, 62, 63] True 1 A building
+7 [69] True 1 A building
+[2.9720]IN-3-A-1-7
+1 [59, 64, 65, 66, 67, 68] True 1 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [57, 58, 60, 61, 62, 63] True 1 A building
+7 [69, 2] True 1 A building
+[2.9720]IN-4-A-1-7
+1 [59, 64, 65, 66, 67, 68] True 1 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [57, 58, 60, 61, 62, 63] True 1 A building
+7 [69, 2, 3] True 1 A building
+[2.9720]IN-5-A-1-7
+1 [59, 64, 65, 66, 67, 68] True 1 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [57, 58, 60, 61, 62, 63] True 1 A building
+7 [69, 2, 3, 4] True 1 A building
+[2.9720]IN-6-A-1-7
+1 [59, 64, 65, 66, 67, 68] True 1 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [57, 58, 60, 61, 62, 63] True 1 A building
+7 [69, 2, 3, 4, 5] True 1 A building
+[3.2770]CLOSE-A-1-6
+1 [59, 64, 65, 66, 67, 68] True 1 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [57, 58, 60, 61, 62, 63] True 1 A building
+7 [69, 2, 3, 4, 5, 6] True 1 A building
+[3.3070]CLOSE-A-1-1
+1 [59, 64, 65, 66, 67, 68] True 1 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [57, 58, 60, 61, 62, 63] True 1 A building
+7 [69, 2, 3, 4, 5, 6] True 1 A building
+[3.3200]CLOSE-A-1-7
+1 [59, 64, 65, 66, 67, 68] True 1 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [57, 58, 60, 61, 62, 63] True 1 A building
+7 [69, 2, 3, 4, 5, 6] True 1 A building
+[3.6840]ARRIVE-A-2-6
+1 [59, 64, 65, 66, 67, 68] True 1 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [57, 58, 60, 61, 62, 63] True 1 A building
+7 [69, 2, 3, 4, 5, 6] True 1 A building
+[3.7080]ARRIVE-A-2-1
+1 [59, 64, 65, 66, 67, 68] True 1 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [57, 58, 60, 61, 62, 63] True 2 A building
+7 [69, 2, 3, 4, 5, 6] True 1 A building
+[3.7250]ARRIVE-A-2-7
+1 [59, 64, 65, 66, 67, 68] True 2 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [57, 58, 60, 61, 62, 63] True 2 A building
+7 [69, 2, 3, 4, 5, 6] True 1 A building
+[4.0880]ARRIVE-A-3-6
+1 [59, 64, 65, 66, 67, 68] True 2 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [57, 58, 60, 61, 62, 63] True 2 A building
+7 [69, 2, 3, 4, 5, 6] True 2 A building
+[4.1200]ARRIVE-A-3-1
+1 [59, 64, 65, 66, 67, 68] True 2 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [57, 58, 60, 61, 62, 63] True 3 A building
+7 [69, 2, 3, 4, 5, 6] True 2 A building
+[4.1270]ARRIVE-A-3-7
+1 [59, 64, 65, 66, 67, 68] True 3 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [57, 58, 60, 61, 62, 63] True 3 A building
+7 [69, 2, 3, 4, 5, 6] True 2 A building
+[4.4940]ARRIVE-A-4-6
+1 [59, 64, 65, 66, 67, 68] True 3 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [57, 58, 60, 61, 62, 63] True 3 A building
+7 [69, 2, 3, 4, 5, 6] True 3 A building
+[4.5320]ARRIVE-A-4-1
+1 [59, 64, 65, 66, 67, 68] True 3 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [57, 58, 60, 61, 62, 63] True 4 A building
+7 [69, 2, 3, 4, 5, 6] True 3 A building
+[4.5320]ARRIVE-A-4-7
+1 [59, 64, 65, 66, 67, 68] True 4 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [57, 58, 60, 61, 62, 63] True 4 A building
+7 [69, 2, 3, 4, 5, 6] True 3 A building
+[4.9090]ARRIVE-A-5-6
+1 [59, 64, 65, 66, 67, 68] True 4 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [57, 58, 60, 61, 62, 63] True 4 A building
+7 [69, 2, 3, 4, 5, 6] True 4 A building
+[4.9090]OPEN-A-5-6
+1 [59, 64, 65, 66, 67, 68] True 4 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [57, 58, 60, 61, 62, 63] True 5 A building
+7 [69, 2, 3, 4, 5, 6] True 4 A building
+[4.9100]OUT-57-A-5-6
+1 [59, 64, 65, 66, 67, 68] True 4 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [57, 58, 60, 61, 62, 63] True 5 A building
+7 [69, 2, 3, 4, 5, 6] True 4 A building
+[4.9100]OUT-58-A-5-6
+1 [59, 64, 65, 66, 67, 68] True 4 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [58, 60, 61, 62, 63] True 5 A building
+7 [69, 2, 3, 4, 5, 6] True 4 A building
+[4.9100]OUT-60-A-5-6
+1 [59, 64, 65, 66, 67, 68] True 4 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [60, 61, 62, 63] True 5 A building
+7 [69, 2, 3, 4, 5, 6] True 4 A building
+[4.9100]OUT-61-A-5-6
+1 [59, 64, 65, 66, 67, 68] True 4 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [61, 62, 63] True 5 A building
+7 [69, 2, 3, 4, 5, 6] True 4 A building
+[4.9110]OUT-62-A-5-6
+1 [59, 64, 65, 66, 67, 68] True 4 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [62, 63] True 5 A building
+7 [69, 2, 3, 4, 5, 6] True 4 A building
+[4.9110]OUT-63-A-5-6
+1 [59, 64, 65, 66, 67, 68] True 4 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [63] True 5 A building
+7 [69, 2, 3, 4, 5, 6] True 4 A building
+[4.9400]ARRIVE-A-5-1
+1 [59, 64, 65, 66, 67, 68] True 4 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [] True 5 A building
+7 [69, 2, 3, 4, 5, 6] True 4 A building
+[4.9400]ARRIVE-A-5-7
+1 [59, 64, 65, 66, 67, 68] True 5 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [] True 5 A building
+7 [69, 2, 3, 4, 5, 6] True 4 A building
+[4.9400]OPEN-A-5-1
+1 [59, 64, 65, 66, 67, 68] True 5 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [] True 5 A building
+7 [69, 2, 3, 4, 5, 6] True 5 A building
+[4.9400]OUT-59-A-5-1
+1 [59, 64, 65, 66, 67, 68] True 5 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [] True 5 A building
+7 [69, 2, 3, 4, 5, 6] True 5 A building
+[4.9410]OUT-64-A-5-1
+1 [64, 65, 66, 67, 68] True 5 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [] True 5 A building
+7 [69, 2, 3, 4, 5, 6] True 5 A building
+[4.9410]OUT-65-A-5-1
+1 [65, 66, 67, 68] True 5 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [] True 5 A building
+7 [69, 2, 3, 4, 5, 6] True 5 A building
+[4.9410]OUT-66-A-5-1
+1 [66, 67, 68] True 5 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [] True 5 A building
+7 [69, 2, 3, 4, 5, 6] True 5 A building
+[4.9410]OUT-67-A-5-1
+1 [67, 68] True 5 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [] True 5 A building
+7 [69, 2, 3, 4, 5, 6] True 5 A building
+[4.9410]OUT-68-A-5-1
+1 [68] True 5 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [] True 5 A building
+7 [69, 2, 3, 4, 5, 6] True 5 A building
+[4.9410]OPEN-A-5-7
+1 [] True 5 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [] True 5 A building
+7 [69, 2, 3, 4, 5, 6] True 5 A building
+[4.9410]OUT-69-A-5-7
+1 [] True 5 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [] True 5 A building
+7 [69, 2, 3, 4, 5, 6] True 5 A building
+[5.3090]CLOSE-A-5-6
+1 [] True 5 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [] True 5 A building
+7 [2, 3, 4, 5, 6] True 5 A building
+[5.3400]CLOSE-A-5-1
+1 [] True 5 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [] True 5 A building
+7 [2, 3, 4, 5, 6] True 5 A building
+[5.3480]CLOSE-A-5-7
+1 [] True 5 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [] True 5 A building
+7 [2, 3, 4, 5, 6] True 5 A building
+[5.7150]ARRIVE-A-6-6
+1 [] True 5 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [] True 5 A building
+7 [2, 3, 4, 5, 6] True 5 A building
+[5.7420]ARRIVE-A-6-1
+1 [] True 5 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [] True 6 A building
+7 [2, 3, 4, 5, 6] True 5 A building
+[5.7500]ARRIVE-A-6-7
+1 [] True 6 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [] True 6 A building
+7 [2, 3, 4, 5, 6] True 5 A building
+[6.1160]ARRIVE-A-7-6
+1 [] True 6 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [] True 6 A building
+7 [2, 3, 4, 5, 6] True 6 A building
+[6.1440]ARRIVE-A-7-1
+1 [] True 6 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [] True 7 A building
+7 [2, 3, 4, 5, 6] True 6 A building
+[6.1530]ARRIVE-A-7-7
+1 [] True 7 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [] True 7 A building
+7 [2, 3, 4, 5, 6] True 6 A building
+[6.5220]ARRIVE-A-8-6
+1 [] True 7 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [] True 7 A building
+7 [2, 3, 4, 5, 6] True 7 A building
+[6.5600]ARRIVE-A-8-1
+1 [] True 7 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [] True 8 A building
+7 [2, 3, 4, 5, 6] True 7 A building
+[6.5600]ARRIVE-A-8-7
+1 [] True 8 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [] True 8 A building
+7 [2, 3, 4, 5, 6] True 7 A building
+[6.9320]ARRIVE-A-9-6
+1 [] True 8 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [] True 8 A building
+7 [2, 3, 4, 5, 6] True 8 A building
+[6.9610]ARRIVE-A-9-1
+1 [] True 8 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [] True 9 A building
+7 [2, 3, 4, 5, 6] True 8 A building
+[6.9610]ARRIVE-A-9-7
+1 [] True 9 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [] True 9 A building
+7 [2, 3, 4, 5, 6] True 8 A building
+[6.9610]OPEN-A-9-7
+1 [] True 9 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [] True 9 A building
+7 [2, 3, 4, 5, 6] True 9 A building
+[6.9610]OUT-6-A-9-7
+1 [] True 9 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [] True 9 A building
+7 [2, 3, 4, 5, 6] True 9 A building
+[7.3330]ARRIVE-A-10-6
+1 [] True 9 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [] True 9 A building
+7 [2, 3, 4, 5] True 9 A building
+[7.3340]OPEN-A-10-6
+1 [] True 9 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [] True 10 A building
+7 [2, 3, 4, 5] True 9 A building
+[7.3340]IN-29-A-10-6
+1 [] True 9 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [] True 10 A building
+7 [2, 3, 4, 5] True 9 A building
+[7.3350]IN-30-A-10-6
+1 [] True 9 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [29] True 10 A building
+7 [2, 3, 4, 5] True 9 A building
+[7.3350]IN-31-A-10-6
+1 [] True 9 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [29, 30] True 10 A building
+7 [2, 3, 4, 5] True 9 A building
+[7.3350]IN-32-A-10-6
+1 [] True 9 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [29, 30, 31] True 10 A building
+7 [2, 3, 4, 5] True 9 A building
+[7.3350]IN-33-A-10-6
+1 [] True 9 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [29, 30, 31, 32] True 10 A building
+7 [2, 3, 4, 5] True 9 A building
+[7.3350]IN-34-A-10-6
+1 [] True 9 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [29, 30, 31, 32, 33] True 10 A building
+7 [2, 3, 4, 5] True 9 A building
+[7.3610]CLOSE-A-9-7
+1 [] True 9 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [29, 30, 31, 32, 33, 34] True 10 A building
+7 [2, 3, 4, 5] True 9 A building
+[7.3660]ARRIVE-A-10-1
+1 [] True 9 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [29, 30, 31, 32, 33, 34] True 10 A building
+7 [2, 3, 4, 5] True 9 A building
+[7.3660]OPEN-A-10-1
+1 [] True 10 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [29, 30, 31, 32, 33, 34] True 10 A building
+7 [2, 3, 4, 5] True 9 A building
+[7.3660]IN-35-A-10-1
+1 [] True 10 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [29, 30, 31, 32, 33, 34] True 10 A building
+7 [2, 3, 4, 5] True 9 A building
+[7.3660]IN-36-A-10-1
+1 [35] True 10 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [29, 30, 31, 32, 33, 34] True 10 A building
+7 [2, 3, 4, 5] True 9 A building
+[7.7370]CLOSE-A-10-6
+1 [35, 36] True 10 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [29, 30, 31, 32, 33, 34] True 10 A building
+7 [2, 3, 4, 5] True 9 A building
+[7.7700]ARRIVE-A-10-7
+1 [35, 36] True 10 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [29, 30, 31, 32, 33, 34] True 10 A building
+7 [2, 3, 4, 5] True 9 A building
+[7.7700]CLOSE-A-10-1
+1 [35, 36] True 10 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [29, 30, 31, 32, 33, 34] True 10 A building
+7 [2, 3, 4, 5] True 10 A building
+[7.7700]OPEN-A-10-7
+1 [35, 36] True 10 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [29, 30, 31, 32, 33, 34] True 10 A building
+7 [2, 3, 4, 5] True 10 A building
+[7.7700]OUT-2-A-10-7
+1 [35, 36] True 10 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [29, 30, 31, 32, 33, 34] True 10 A building
+7 [2, 3, 4, 5] True 10 A building
+[7.7700]OUT-3-A-10-7
+1 [35, 36] True 10 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [29, 30, 31, 32, 33, 34] True 10 A building
+7 [3, 4, 5] True 10 A building
+[7.7700]OUT-4-A-10-7
+1 [35, 36] True 10 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [29, 30, 31, 32, 33, 34] True 10 A building
+7 [4, 5] True 10 A building
+[7.7700]OUT-5-A-10-7
+1 [35, 36] True 10 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [29, 30, 31, 32, 33, 34] True 10 A building
+7 [5] True 10 A building
+[8.1470]ARRIVE-A-9-6
+1 [35, 36] True 10 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [29, 30, 31, 32, 33, 34] True 10 A building
+7 [] True 10 A building
+[8.1800]ARRIVE-A-9-1
+1 [35, 36] True 10 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [29, 30, 31, 32, 33, 34] True 9 A building
+7 [] True 10 A building
+[8.1800]CLOSE-A-10-7
+1 [35, 36] True 9 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [29, 30, 31, 32, 33, 34] True 9 A building
+7 [] True 10 A building
+[8.1800]OPEN-A-9-1
+1 [35, 36] True 9 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [29, 30, 31, 32, 33, 34] True 9 A building
+7 [] True 10 A building
+[8.1800]IN-37-A-9-1
+1 [35, 36] True 9 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [29, 30, 31, 32, 33, 34] True 9 A building
+7 [] True 10 A building
+[8.1800]IN-38-A-9-1
+1 [35, 36, 37] True 9 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [29, 30, 31, 32, 33, 34] True 9 A building
+7 [] True 10 A building
+[8.1800]IN-39-A-9-1
+1 [35, 36, 37, 38] True 9 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [29, 30, 31, 32, 33, 34] True 9 A building
+7 [] True 10 A building
+[8.1800]IN-40-A-9-1
+1 [35, 36, 37, 38, 39] True 9 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [29, 30, 31, 32, 33, 34] True 9 A building
+7 [] True 10 A building
+[8.5480]ARRIVE-A-8-6
+1 [35, 36, 37, 38, 39, 40] True 9 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [29, 30, 31, 32, 33, 34] True 9 A building
+7 [] True 10 A building
+[8.5880]CLOSE-A-9-1
+1 [35, 36, 37, 38, 39, 40] True 9 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [29, 30, 31, 32, 33, 34] True 8 A building
+7 [] True 10 A building
+[8.5880]ARRIVE-A-9-7
+1 [35, 36, 37, 38, 39, 40] True 9 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [29, 30, 31, 32, 33, 34] True 8 A building
+7 [] True 10 A building
+[8.5880]OPEN-A-9-7
+1 [35, 36, 37, 38, 39, 40] True 9 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [29, 30, 31, 32, 33, 34] True 8 A building
+7 [] True 9 A building
+[8.5880]IN-41-A-9-7
+1 [35, 36, 37, 38, 39, 40] True 9 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [29, 30, 31, 32, 33, 34] True 8 A building
+7 [] True 9 A building
+[8.5880]IN-42-A-9-7
+1 [35, 36, 37, 38, 39, 40] True 9 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [29, 30, 31, 32, 33, 34] True 8 A building
+7 [41] True 9 A building
+[8.5880]IN-43-A-9-7
+1 [35, 36, 37, 38, 39, 40] True 9 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [29, 30, 31, 32, 33, 34] True 8 A building
+7 [41, 42] True 9 A building
+[8.5880]IN-44-A-9-7
+1 [35, 36, 37, 38, 39, 40] True 9 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [29, 30, 31, 32, 33, 34] True 8 A building
+7 [41, 42, 43] True 9 A building
+[8.5880]IN-45-A-9-7
+1 [35, 36, 37, 38, 39, 40] True 9 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [29, 30, 31, 32, 33, 34] True 8 A building
+7 [41, 42, 43, 44] True 9 A building
+[8.5880]IN-46-A-9-7
+1 [35, 36, 37, 38, 39, 40] True 9 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [29, 30, 31, 32, 33, 34] True 8 A building
+7 [41, 42, 43, 44, 45] True 9 A building
+[8.9510]ARRIVE-A-7-6
+1 [35, 36, 37, 38, 39, 40] True 9 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [29, 30, 31, 32, 33, 34] True 8 A building
+7 [41, 42, 43, 44, 45, 46] True 9 A building
+[8.9910]CLOSE-A-9-7
+1 [35, 36, 37, 38, 39, 40] True 9 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [29, 30, 31, 32, 33, 34] True 7 A building
+7 [41, 42, 43, 44, 45, 46] True 9 A building
+[8.9910]ARRIVE-A-8-1
+1 [35, 36, 37, 38, 39, 40] True 9 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [29, 30, 31, 32, 33, 34] True 7 A building
+7 [41, 42, 43, 44, 45, 46] True 9 A building
+[9.3570]ARRIVE-A-6-6
+1 [35, 36, 37, 38, 39, 40] True 8 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [29, 30, 31, 32, 33, 34] True 7 A building
+7 [41, 42, 43, 44, 45, 46] True 9 A building
+[9.3970]ARRIVE-A-7-1
+1 [35, 36, 37, 38, 39, 40] True 8 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [29, 30, 31, 32, 33, 34] True 6 A building
+7 [41, 42, 43, 44, 45, 46] True 9 A building
+[9.3970]ARRIVE-A-8-7
+1 [35, 36, 37, 38, 39, 40] True 7 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [29, 30, 31, 32, 33, 34] True 6 A building
+7 [41, 42, 43, 44, 45, 46] True 9 A building
+[9.7620]ARRIVE-A-5-6
+1 [35, 36, 37, 38, 39, 40] True 7 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [29, 30, 31, 32, 33, 34] True 6 A building
+7 [41, 42, 43, 44, 45, 46] True 8 A building
+[9.8100]ARRIVE-A-6-1
+1 [35, 36, 37, 38, 39, 40] True 7 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [29, 30, 31, 32, 33, 34] True 5 A building
+7 [41, 42, 43, 44, 45, 46] True 8 A building
+[9.8100]ARRIVE-A-7-7
+1 [35, 36, 37, 38, 39, 40] True 6 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [29, 30, 31, 32, 33, 34] True 5 A building
+7 [41, 42, 43, 44, 45, 46] True 8 A building
+[10.1650]ARRIVE-A-4-6
+1 [35, 36, 37, 38, 39, 40] True 6 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [29, 30, 31, 32, 33, 34] True 5 A building
+7 [41, 42, 43, 44, 45, 46] True 7 A building
+[10.2150]ARRIVE-A-6-7
+1 [35, 36, 37, 38, 39, 40] True 6 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [29, 30, 31, 32, 33, 34] True 4 A building
+7 [41, 42, 43, 44, 45, 46] True 7 A building
+[10.2150]ARRIVE-A-5-1
+1 [35, 36, 37, 38, 39, 40] True 6 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [29, 30, 31, 32, 33, 34] True 4 A building
+7 [41, 42, 43, 44, 45, 46] True 6 A building
+[10.5790]ARRIVE-A-3-6
+1 [35, 36, 37, 38, 39, 40] True 5 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [29, 30, 31, 32, 33, 34] True 4 A building
+7 [41, 42, 43, 44, 45, 46] True 6 A building
+[10.6200]ARRIVE-A-4-1
+1 [35, 36, 37, 38, 39, 40] True 5 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [29, 30, 31, 32, 33, 34] True 3 A building
+7 [41, 42, 43, 44, 45, 46] True 6 A building
+[10.6200]ARRIVE-A-5-7
+1 [35, 36, 37, 38, 39, 40] True 4 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [29, 30, 31, 32, 33, 34] True 3 A building
+7 [41, 42, 43, 44, 45, 46] True 6 A building
+[10.9860]ARRIVE-A-2-6
+1 [35, 36, 37, 38, 39, 40] True 4 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [29, 30, 31, 32, 33, 34] True 3 A building
+7 [41, 42, 43, 44, 45, 46] True 5 A building
+[11.0340]ARRIVE-A-4-7
+1 [35, 36, 37, 38, 39, 40] True 4 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [29, 30, 31, 32, 33, 34] True 2 A building
+7 [41, 42, 43, 44, 45, 46] True 5 A building
+[11.0340]ARRIVE-A-3-1
+1 [35, 36, 37, 38, 39, 40] True 4 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [29, 30, 31, 32, 33, 34] True 2 A building
+7 [41, 42, 43, 44, 45, 46] True 4 A building
+[11.3860]ARRIVE-A-1-6
+1 [35, 36, 37, 38, 39, 40] True 3 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [29, 30, 31, 32, 33, 34] True 2 A building
+7 [41, 42, 43, 44, 45, 46] True 4 A building
+[11.3860]OPEN-A-1-6
+1 [35, 36, 37, 38, 39, 40] True 3 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [29, 30, 31, 32, 33, 34] True 1 A building
+7 [41, 42, 43, 44, 45, 46] True 4 A building
+[11.3860]OUT-29-A-1-6
+1 [35, 36, 37, 38, 39, 40] True 3 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [29, 30, 31, 32, 33, 34] True 1 A building
+7 [41, 42, 43, 44, 45, 46] True 4 A building
+[11.3860]OUT-30-A-1-6
+1 [35, 36, 37, 38, 39, 40] True 3 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [30, 31, 32, 33, 34] True 1 A building
+7 [41, 42, 43, 44, 45, 46] True 4 A building
+[11.3860]OUT-31-A-1-6
+1 [35, 36, 37, 38, 39, 40] True 3 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [31, 32, 33, 34] True 1 A building
+7 [41, 42, 43, 44, 45, 46] True 4 A building
+[11.3860]OUT-32-A-1-6
+1 [35, 36, 37, 38, 39, 40] True 3 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [32, 33, 34] True 1 A building
+7 [41, 42, 43, 44, 45, 46] True 4 A building
+[11.3860]OUT-33-A-1-6
+1 [35, 36, 37, 38, 39, 40] True 3 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [33, 34] True 1 A building
+7 [41, 42, 43, 44, 45, 46] True 4 A building
+[11.3860]OUT-34-A-1-6
+1 [35, 36, 37, 38, 39, 40] True 3 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [34] True 1 A building
+7 [41, 42, 43, 44, 45, 46] True 4 A building
+[11.3860]IN-7-A-1-6
+1 [35, 36, 37, 38, 39, 40] True 3 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [] True 1 A building
+7 [41, 42, 43, 44, 45, 46] True 4 A building
+[11.3860]IN-8-A-1-6
+1 [35, 36, 37, 38, 39, 40] True 3 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [7] True 1 A building
+7 [41, 42, 43, 44, 45, 46] True 4 A building
+[11.3860]IN-9-A-1-6
+1 [35, 36, 37, 38, 39, 40] True 3 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [7, 8] True 1 A building
+7 [41, 42, 43, 44, 45, 46] True 4 A building
+[11.3860]IN-10-A-1-6
+1 [35, 36, 37, 38, 39, 40] True 3 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [7, 8, 9] True 1 A building
+7 [41, 42, 43, 44, 45, 46] True 4 A building
+[11.3860]IN-11-A-1-6
+1 [35, 36, 37, 38, 39, 40] True 3 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [7, 8, 9, 10] True 1 A building
+7 [41, 42, 43, 44, 45, 46] True 4 A building
+[11.3860]IN-12-A-1-6
+1 [35, 36, 37, 38, 39, 40] True 3 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [7, 8, 9, 10, 11] True 1 A building
+7 [41, 42, 43, 44, 45, 46] True 4 A building
+[11.4340]ARRIVE-A-3-7
+1 [35, 36, 37, 38, 39, 40] True 3 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [7, 8, 9, 10, 11, 12] True 1 A building
+7 [41, 42, 43, 44, 45, 46] True 4 A building
+[11.4340]ARRIVE-A-2-1
+1 [35, 36, 37, 38, 39, 40] True 3 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [7, 8, 9, 10, 11, 12] True 1 A building
+7 [41, 42, 43, 44, 45, 46] True 3 A building
+[11.4340]OPEN-A-2-1
+1 [35, 36, 37, 38, 39, 40] True 2 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [7, 8, 9, 10, 11, 12] True 1 A building
+7 [41, 42, 43, 44, 45, 46] True 3 A building
+[11.4340]OUT-37-A-2-1
+1 [35, 36, 37, 38, 39, 40] True 2 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [7, 8, 9, 10, 11, 12] True 1 A building
+7 [41, 42, 43, 44, 45, 46] True 3 A building
+[11.4340]OUT-38-A-2-1
+1 [35, 36, 38, 39, 40] True 2 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [7, 8, 9, 10, 11, 12] True 1 A building
+7 [41, 42, 43, 44, 45, 46] True 3 A building
+[11.4340]OUT-39-A-2-1
+1 [35, 36, 39, 40] True 2 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [7, 8, 9, 10, 11, 12] True 1 A building
+7 [41, 42, 43, 44, 45, 46] True 3 A building
+[11.4340]OUT-40-A-2-1
+1 [35, 36, 40] True 2 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [7, 8, 9, 10, 11, 12] True 1 A building
+7 [41, 42, 43, 44, 45, 46] True 3 A building
+[11.7860]CLOSE-A-1-6
+1 [35, 36] True 2 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [7, 8, 9, 10, 11, 12] True 1 A building
+7 [41, 42, 43, 44, 45, 46] True 3 A building
+[11.8410]CLOSE-A-2-1
+1 [35, 36] True 2 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [7, 8, 9, 10, 11, 12] True 1 A building
+7 [41, 42, 43, 44, 45, 46] True 3 A building
+[11.8410]ARRIVE-A-2-7
+1 [35, 36] True 2 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [7, 8, 9, 10, 11, 12] True 1 A building
+7 [41, 42, 43, 44, 45, 46] True 3 A building
+[11.8410]OPEN-A-2-7
+1 [35, 36] True 2 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [7, 8, 9, 10, 11, 12] True 1 A building
+7 [41, 42, 43, 44, 45, 46] True 2 A building
+[11.8410]OUT-41-A-2-7
+1 [35, 36] True 2 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [7, 8, 9, 10, 11, 12] True 1 A building
+7 [41, 42, 43, 44, 45, 46] True 2 A building
+[11.8410]OUT-42-A-2-7
+1 [35, 36] True 2 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [7, 8, 9, 10, 11, 12] True 1 A building
+7 [42, 43, 44, 45, 46] True 2 A building
+[11.8410]OUT-43-A-2-7
+1 [35, 36] True 2 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [7, 8, 9, 10, 11, 12] True 1 A building
+7 [43, 44, 45, 46] True 2 A building
+[11.8410]OUT-44-A-2-7
+1 [35, 36] True 2 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [7, 8, 9, 10, 11, 12] True 1 A building
+7 [44, 45, 46] True 2 A building
+[11.8410]OUT-45-A-2-7
+1 [35, 36] True 2 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [7, 8, 9, 10, 11, 12] True 1 A building
+7 [45, 46] True 2 A building
+[11.8410]OUT-46-A-2-7
+1 [35, 36] True 2 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [7, 8, 9, 10, 11, 12] True 1 A building
+7 [46] True 2 A building
+[12.1980]ARRIVE-A-2-6
+1 [35, 36] True 2 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [7, 8, 9, 10, 11, 12] True 1 A building
+7 [] True 2 A building
+[12.2490]ARRIVE-A-1-1
+1 [35, 36] True 2 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [7, 8, 9, 10, 11, 12] True 2 A building
+7 [] True 2 A building
+[12.2490]OPEN-A-1-1
+1 [35, 36] True 1 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [7, 8, 9, 10, 11, 12] True 2 A building
+7 [] True 2 A building
+[12.2490]OUT-35-A-1-1
+1 [35, 36] True 1 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [7, 8, 9, 10, 11, 12] True 2 A building
+7 [] True 2 A building
+[12.2490]OUT-36-A-1-1
+1 [36] True 1 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [7, 8, 9, 10, 11, 12] True 2 A building
+7 [] True 2 A building
+[12.2500]CLOSE-A-2-7
+1 [] True 1 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [7, 8, 9, 10, 11, 12] True 2 A building
+7 [] True 2 A building
+[12.2500]IN-13-A-1-1
+1 [] True 1 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [7, 8, 9, 10, 11, 12] True 2 A building
+7 [] True 2 A building
+[12.2500]IN-14-A-1-1
+1 [13] True 1 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [7, 8, 9, 10, 11, 12] True 2 A building
+7 [] True 2 A building
+[12.2500]IN-15-A-1-1
+1 [13, 14] True 1 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [7, 8, 9, 10, 11, 12] True 2 A building
+7 [] True 2 A building
+[12.2500]IN-16-A-1-1
+1 [13, 14, 15] True 1 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [7, 8, 9, 10, 11, 12] True 2 A building
+7 [] True 2 A building
+[12.2510]IN-17-A-1-1
+1 [13, 14, 15, 16] True 1 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [7, 8, 9, 10, 11, 12] True 2 A building
+7 [] True 2 A building
+[12.2510]IN-18-A-1-1
+1 [13, 14, 15, 16, 17] True 1 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [7, 8, 9, 10, 11, 12] True 2 A building
+7 [] True 2 A building
+[12.6000]ARRIVE-A-3-6
+1 [13, 14, 15, 16, 17, 18] True 1 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [7, 8, 9, 10, 11, 12] True 2 A building
+7 [] True 2 A building
+[12.6560]CLOSE-A-1-1
+1 [13, 14, 15, 16, 17, 18] True 1 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [7, 8, 9, 10, 11, 12] True 3 A building
+7 [] True 2 A building
+[12.6560]ARRIVE-A-1-7
+1 [13, 14, 15, 16, 17, 18] True 1 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [7, 8, 9, 10, 11, 12] True 3 A building
+7 [] True 2 A building
+[12.6560]OPEN-A-1-7
+1 [13, 14, 15, 16, 17, 18] True 1 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [7, 8, 9, 10, 11, 12] True 3 A building
+7 [] True 1 A building
+[12.6560]IN-19-A-1-7
+1 [13, 14, 15, 16, 17, 18] True 1 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [7, 8, 9, 10, 11, 12] True 3 A building
+7 [] True 1 A building
+[12.6560]IN-20-A-1-7
+1 [13, 14, 15, 16, 17, 18] True 1 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [7, 8, 9, 10, 11, 12] True 3 A building
+7 [19] True 1 A building
+[12.6560]IN-21-A-1-7
+1 [13, 14, 15, 16, 17, 18] True 1 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [7, 8, 9, 10, 11, 12] True 3 A building
+7 [19, 20] True 1 A building
+[12.6560]IN-22-A-1-7
+1 [13, 14, 15, 16, 17, 18] True 1 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [7, 8, 9, 10, 11, 12] True 3 A building
+7 [19, 20, 21] True 1 A building
+[12.6560]IN-23-A-1-7
+1 [13, 14, 15, 16, 17, 18] True 1 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [7, 8, 9, 10, 11, 12] True 3 A building
+7 [19, 20, 21, 22] True 1 A building
+[12.6560]IN-24-A-1-7
+1 [13, 14, 15, 16, 17, 18] True 1 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [7, 8, 9, 10, 11, 12] True 3 A building
+7 [19, 20, 21, 22, 23] True 1 A building
+[13.0110]ARRIVE-A-4-6
+1 [13, 14, 15, 16, 17, 18] True 1 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [7, 8, 9, 10, 11, 12] True 3 A building
+7 [19, 20, 21, 22, 23, 24] True 1 A building
+[13.0600]ARRIVE-A-2-1
+1 [13, 14, 15, 16, 17, 18] True 1 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [7, 8, 9, 10, 11, 12] True 4 A building
+7 [19, 20, 21, 22, 23, 24] True 1 A building
+[13.0600]CLOSE-A-1-7
+1 [13, 14, 15, 16, 17, 18] True 2 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [7, 8, 9, 10, 11, 12] True 4 A building
+7 [19, 20, 21, 22, 23, 24] True 1 A building
+[13.4190]ARRIVE-A-5-6
+1 [13, 14, 15, 16, 17, 18] True 2 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [7, 8, 9, 10, 11, 12] True 4 A building
+7 [19, 20, 21, 22, 23, 24] True 1 A building
+[13.4610]ARRIVE-A-3-1
+1 [13, 14, 15, 16, 17, 18] True 2 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [7, 8, 9, 10, 11, 12] True 5 A building
+7 [19, 20, 21, 22, 23, 24] True 1 A building
+[13.4610]ARRIVE-A-2-7
+1 [13, 14, 15, 16, 17, 18] True 3 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [7, 8, 9, 10, 11, 12] True 5 A building
+7 [19, 20, 21, 22, 23, 24] True 1 A building
+[13.8310]ARRIVE-A-6-6
+1 [13, 14, 15, 16, 17, 18] True 3 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [7, 8, 9, 10, 11, 12] True 5 A building
+7 [19, 20, 21, 22, 23, 24] True 2 A building
+[13.8720]ARRIVE-A-4-1
+1 [13, 14, 15, 16, 17, 18] True 3 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [7, 8, 9, 10, 11, 12] True 6 A building
+7 [19, 20, 21, 22, 23, 24] True 2 A building
+[13.8720]ARRIVE-A-3-7
+1 [13, 14, 15, 16, 17, 18] True 4 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [7, 8, 9, 10, 11, 12] True 6 A building
+7 [19, 20, 21, 22, 23, 24] True 2 A building
+[14.2390]ARRIVE-A-7-6
+1 [13, 14, 15, 16, 17, 18] True 4 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [7, 8, 9, 10, 11, 12] True 6 A building
+7 [19, 20, 21, 22, 23, 24] True 3 A building
+[14.2790]ARRIVE-A-4-7
+1 [13, 14, 15, 16, 17, 18] True 4 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [7, 8, 9, 10, 11, 12] True 7 A building
+7 [19, 20, 21, 22, 23, 24] True 3 A building
+[14.2810]ARRIVE-A-5-1
+1 [13, 14, 15, 16, 17, 18] True 4 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [7, 8, 9, 10, 11, 12] True 7 A building
+7 [19, 20, 21, 22, 23, 24] True 4 A building
+[14.6460]ARRIVE-A-8-6
+1 [13, 14, 15, 16, 17, 18] True 5 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [7, 8, 9, 10, 11, 12] True 7 A building
+7 [19, 20, 21, 22, 23, 24] True 4 A building
+[14.6950]ARRIVE-A-6-1
+1 [13, 14, 15, 16, 17, 18] True 5 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [7, 8, 9, 10, 11, 12] True 8 A building
+7 [19, 20, 21, 22, 23, 24] True 4 A building
+[14.6950]ARRIVE-A-5-7
+1 [13, 14, 15, 16, 17, 18] True 6 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [7, 8, 9, 10, 11, 12] True 8 A building
+7 [19, 20, 21, 22, 23, 24] True 4 A building
+[15.0520]ARRIVE-A-9-6
+1 [13, 14, 15, 16, 17, 18] True 6 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [7, 8, 9, 10, 11, 12] True 8 A building
+7 [19, 20, 21, 22, 23, 24] True 5 A building
+[15.0520]OPEN-A-9-6
+1 [13, 14, 15, 16, 17, 18] True 6 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [7, 8, 9, 10, 11, 12] True 9 A building
+7 [19, 20, 21, 22, 23, 24] True 5 A building
+[15.0520]OUT-7-A-9-6
+1 [13, 14, 15, 16, 17, 18] True 6 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [7, 8, 9, 10, 11, 12] True 9 A building
+7 [19, 20, 21, 22, 23, 24] True 5 A building
+[15.0520]OUT-8-A-9-6
+1 [13, 14, 15, 16, 17, 18] True 6 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [8, 9, 10, 11, 12] True 9 A building
+7 [19, 20, 21, 22, 23, 24] True 5 A building
+[15.0520]OUT-9-A-9-6
+1 [13, 14, 15, 16, 17, 18] True 6 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [9, 10, 11, 12] True 9 A building
+7 [19, 20, 21, 22, 23, 24] True 5 A building
+[15.0520]OUT-10-A-9-6
+1 [13, 14, 15, 16, 17, 18] True 6 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [10, 11, 12] True 9 A building
+7 [19, 20, 21, 22, 23, 24] True 5 A building
+[15.0520]OUT-11-A-9-6
+1 [13, 14, 15, 16, 17, 18] True 6 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [11, 12] True 9 A building
+7 [19, 20, 21, 22, 23, 24] True 5 A building
+[15.0520]OUT-12-A-9-6
+1 [13, 14, 15, 16, 17, 18] True 6 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [12] True 9 A building
+7 [19, 20, 21, 22, 23, 24] True 5 A building
+[15.0520]IN-47-A-9-6
+1 [13, 14, 15, 16, 17, 18] True 6 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [] True 9 A building
+7 [19, 20, 21, 22, 23, 24] True 5 A building
+[15.0520]IN-48-A-9-6
+1 [13, 14, 15, 16, 17, 18] True 6 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [47] True 9 A building
+7 [19, 20, 21, 22, 23, 24] True 5 A building
+[15.0520]IN-49-A-9-6
+1 [13, 14, 15, 16, 17, 18] True 6 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [47, 48] True 9 A building
+7 [19, 20, 21, 22, 23, 24] True 5 A building
+[15.0520]IN-50-A-9-6
+1 [13, 14, 15, 16, 17, 18] True 6 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [47, 48, 49] True 9 A building
+7 [19, 20, 21, 22, 23, 24] True 5 A building
+[15.0520]IN-51-A-9-6
+1 [13, 14, 15, 16, 17, 18] True 6 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [47, 48, 49, 50] True 9 A building
+7 [19, 20, 21, 22, 23, 24] True 5 A building
+[15.0520]IN-52-A-9-6
+1 [13, 14, 15, 16, 17, 18] True 6 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [47, 48, 49, 50, 51] True 9 A building
+7 [19, 20, 21, 22, 23, 24] True 5 A building
+[15.1010]ARRIVE-A-6-7
+1 [13, 14, 15, 16, 17, 18] True 6 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [47, 48, 49, 50, 51, 52] True 9 A building
+7 [19, 20, 21, 22, 23, 24] True 5 A building
+[15.1010]ARRIVE-A-7-1
+1 [13, 14, 15, 16, 17, 18] True 6 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [47, 48, 49, 50, 51, 52] True 9 A building
+7 [19, 20, 21, 22, 23, 24] True 6 A building
+[15.4660]CLOSE-A-9-6
+1 [13, 14, 15, 16, 17, 18] True 7 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [47, 48, 49, 50, 51, 52] True 9 A building
+7 [19, 20, 21, 22, 23, 24] True 6 A building
+[15.5140]ARRIVE-A-7-7
+1 [13, 14, 15, 16, 17, 18] True 7 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [47, 48, 49, 50, 51, 52] True 9 A building
+7 [19, 20, 21, 22, 23, 24] True 6 A building
+[15.5140]ARRIVE-A-8-1
+1 [13, 14, 15, 16, 17, 18] True 7 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [47, 48, 49, 50, 51, 52] True 9 A building
+7 [19, 20, 21, 22, 23, 24] True 7 A building
+[15.8750]ARRIVE-A-8-6
+1 [13, 14, 15, 16, 17, 18] True 8 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [47, 48, 49, 50, 51, 52] True 9 A building
+7 [19, 20, 21, 22, 23, 24] True 7 A building
+[15.9170]ARRIVE-A-9-1
+1 [13, 14, 15, 16, 17, 18] True 8 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [47, 48, 49, 50, 51, 52] True 8 A building
+7 [19, 20, 21, 22, 23, 24] True 7 A building
+[15.9170]ARRIVE-A-8-7
+1 [13, 14, 15, 16, 17, 18] True 9 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [47, 48, 49, 50, 51, 52] True 8 A building
+7 [19, 20, 21, 22, 23, 24] True 7 A building
+[15.9170]OPEN-A-9-1
+1 [13, 14, 15, 16, 17, 18] True 9 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [47, 48, 49, 50, 51, 52] True 8 A building
+7 [19, 20, 21, 22, 23, 24] True 8 A building
+[15.9170]OUT-13-A-9-1
+1 [13, 14, 15, 16, 17, 18] True 9 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [47, 48, 49, 50, 51, 52] True 8 A building
+7 [19, 20, 21, 22, 23, 24] True 8 A building
+[15.9170]OUT-14-A-9-1
+1 [14, 15, 16, 17, 18] True 9 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [47, 48, 49, 50, 51, 52] True 8 A building
+7 [19, 20, 21, 22, 23, 24] True 8 A building
+[15.9170]OUT-15-A-9-1
+1 [15, 16, 17, 18] True 9 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [47, 48, 49, 50, 51, 52] True 8 A building
+7 [19, 20, 21, 22, 23, 24] True 8 A building
+[15.9170]OUT-16-A-9-1
+1 [16, 17, 18] True 9 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [47, 48, 49, 50, 51, 52] True 8 A building
+7 [19, 20, 21, 22, 23, 24] True 8 A building
+[15.9170]OUT-17-A-9-1
+1 [17, 18] True 9 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [47, 48, 49, 50, 51, 52] True 8 A building
+7 [19, 20, 21, 22, 23, 24] True 8 A building
+[15.9170]OUT-18-A-9-1
+1 [18] True 9 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [47, 48, 49, 50, 51, 52] True 8 A building
+7 [19, 20, 21, 22, 23, 24] True 8 A building
+[15.9170]IN-53-A-9-1
+1 [] True 9 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [47, 48, 49, 50, 51, 52] True 8 A building
+7 [19, 20, 21, 22, 23, 24] True 8 A building
+[15.9170]IN-54-A-9-1
+1 [53] True 9 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [47, 48, 49, 50, 51, 52] True 8 A building
+7 [19, 20, 21, 22, 23, 24] True 8 A building
+[15.9170]IN-55-A-9-1
+1 [53, 54] True 9 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [47, 48, 49, 50, 51, 52] True 8 A building
+7 [19, 20, 21, 22, 23, 24] True 8 A building
+[15.9170]IN-56-A-9-1
+1 [53, 54, 55] True 9 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [47, 48, 49, 50, 51, 52] True 8 A building
+7 [19, 20, 21, 22, 23, 24] True 8 A building
+[16.2820]ARRIVE-A-7-6
+1 [53, 54, 55, 56] True 9 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [47, 48, 49, 50, 51, 52] True 8 A building
+7 [19, 20, 21, 22, 23, 24] True 8 A building
+[16.3310]CLOSE-A-9-1
+1 [53, 54, 55, 56] True 9 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [47, 48, 49, 50, 51, 52] True 7 A building
+7 [19, 20, 21, 22, 23, 24] True 8 A building
+[16.3320]ARRIVE-A-9-7
+1 [53, 54, 55, 56] True 9 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [47, 48, 49, 50, 51, 52] True 7 A building
+7 [19, 20, 21, 22, 23, 24] True 8 A building
+[16.3320]OPEN-A-9-7
+1 [53, 54, 55, 56] True 9 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [47, 48, 49, 50, 51, 52] True 7 A building
+7 [19, 20, 21, 22, 23, 24] True 9 A building
+[16.3320]OUT-19-A-9-7
+1 [53, 54, 55, 56] True 9 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [47, 48, 49, 50, 51, 52] True 7 A building
+7 [19, 20, 21, 22, 23, 24] True 9 A building
+[16.3320]OUT-20-A-9-7
+1 [53, 54, 55, 56] True 9 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [47, 48, 49, 50, 51, 52] True 7 A building
+7 [20, 21, 22, 23, 24] True 9 A building
+[16.3320]OUT-21-A-9-7
+1 [53, 54, 55, 56] True 9 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [47, 48, 49, 50, 51, 52] True 7 A building
+7 [21, 22, 23, 24] True 9 A building
+[16.3330]OUT-22-A-9-7
+1 [53, 54, 55, 56] True 9 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [47, 48, 49, 50, 51, 52] True 7 A building
+7 [22, 23, 24] True 9 A building
+[16.3330]OUT-23-A-9-7
+1 [53, 54, 55, 56] True 9 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [47, 48, 49, 50, 51, 52] True 7 A building
+7 [23, 24] True 9 A building
+[16.3330]OUT-24-A-9-7
+1 [53, 54, 55, 56] True 9 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [47, 48, 49, 50, 51, 52] True 7 A building
+7 [24] True 9 A building
+[16.6850]ARRIVE-A-6-6
+1 [53, 54, 55, 56] True 9 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [47, 48, 49, 50, 51, 52] True 7 A building
+7 [] True 9 A building
+[16.7330]CLOSE-A-9-7
+1 [53, 54, 55, 56] True 9 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [47, 48, 49, 50, 51, 52] True 6 A building
+7 [] True 9 A building
+[16.7330]ARRIVE-A-8-1
+1 [53, 54, 55, 56] True 9 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [47, 48, 49, 50, 51, 52] True 6 A building
+7 [] True 9 A building
+[17.0990]ARRIVE-A-5-6
+1 [53, 54, 55, 56] True 8 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [47, 48, 49, 50, 51, 52] True 6 A building
+7 [] True 9 A building
+[17.1470]ARRIVE-A-7-1
+1 [53, 54, 55, 56] True 8 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [47, 48, 49, 50, 51, 52] True 5 A building
+7 [] True 9 A building
+[17.1470]ARRIVE-A-8-7
+1 [53, 54, 55, 56] True 7 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [47, 48, 49, 50, 51, 52] True 5 A building
+7 [] True 9 A building
+[17.5120]ARRIVE-A-4-6
+1 [53, 54, 55, 56] True 7 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [47, 48, 49, 50, 51, 52] True 5 A building
+7 [] True 8 A building
+[17.5600]ARRIVE-A-6-1
+1 [53, 54, 55, 56] True 7 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [47, 48, 49, 50, 51, 52] True 4 A building
+7 [] True 8 A building
+[17.5600]ARRIVE-A-7-7
+1 [53, 54, 55, 56] True 6 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [47, 48, 49, 50, 51, 52] True 4 A building
+7 [] True 8 A building
+[17.9160]ARRIVE-A-3-6
+1 [53, 54, 55, 56] True 6 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [47, 48, 49, 50, 51, 52] True 4 A building
+7 [] True 7 A building
+[17.9620]ARRIVE-A-6-7
+1 [53, 54, 55, 56] True 6 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [47, 48, 49, 50, 51, 52] True 3 A building
+7 [] True 7 A building
+[17.9620]ARRIVE-A-5-1
+1 [53, 54, 55, 56] True 6 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [47, 48, 49, 50, 51, 52] True 3 A building
+7 [] True 6 A building
+[18.3200]ARRIVE-A-2-6
+1 [53, 54, 55, 56] True 5 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [47, 48, 49, 50, 51, 52] True 3 A building
+7 [] True 6 A building
+[18.3200]OPEN-A-2-6
+1 [53, 54, 55, 56] True 5 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [47, 48, 49, 50, 51, 52] True 2 A building
+7 [] True 6 A building
+[18.3200]OUT-47-A-2-6
+1 [53, 54, 55, 56] True 5 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [47, 48, 49, 50, 51, 52] True 2 A building
+7 [] True 6 A building
+[18.3200]OUT-48-A-2-6
+1 [53, 54, 55, 56] True 5 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [48, 49, 50, 51, 52] True 2 A building
+7 [] True 6 A building
+[18.3200]OUT-49-A-2-6
+1 [53, 54, 55, 56] True 5 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [49, 50, 51, 52] True 2 A building
+7 [] True 6 A building
+[18.3200]OUT-50-A-2-6
+1 [53, 54, 55, 56] True 5 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [50, 51, 52] True 2 A building
+7 [] True 6 A building
+[18.3200]OUT-51-A-2-6
+1 [53, 54, 55, 56] True 5 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [51, 52] True 2 A building
+7 [] True 6 A building
+[18.3200]OUT-52-A-2-6
+1 [53, 54, 55, 56] True 5 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [52] True 2 A building
+7 [] True 6 A building
+[18.3760]ARRIVE-A-5-7
+1 [53, 54, 55, 56] True 5 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [] True 2 A building
+7 [] True 6 A building
+[18.3760]ARRIVE-A-4-1
+1 [53, 54, 55, 56] True 5 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [] True 2 A building
+7 [] True 5 A building
+[18.7300]CLOSE-A-2-6
+1 [53, 54, 55, 56] True 4 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [] True 2 A building
+7 [] True 5 A building
+[18.7780]ARRIVE-A-3-1
+1 [53, 54, 55, 56] True 4 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [] True 2 A building
+7 [] True 5 A building
+[18.7780]ARRIVE-A-4-7
+1 [53, 54, 55, 56] True 3 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [] True 2 A building
+7 [] True 5 A building
+[19.1310]ARRIVE-A-1-6
+1 [53, 54, 55, 56] True 3 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [] True 2 A building
+7 [] True 4 A building
+[19.1310]OPEN-A-1-6
+1 [53, 54, 55, 56] True 3 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [] True 1 A building
+7 [] True 4 A building
+[19.1310]IN-25-A-1-6
+1 [53, 54, 55, 56] True 3 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [] True 1 A building
+7 [] True 4 A building
+[19.1310]IN-26-A-1-6
+1 [53, 54, 55, 56] True 3 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [25] True 1 A building
+7 [] True 4 A building
+[19.1310]IN-27-A-1-6
+1 [53, 54, 55, 56] True 3 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [25, 26] True 1 A building
+7 [] True 4 A building
+[19.1310]IN-28-A-1-6
+1 [53, 54, 55, 56] True 3 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [25, 26, 27] True 1 A building
+7 [] True 4 A building
+[19.1790]ARRIVE-A-3-7
+1 [53, 54, 55, 56] True 3 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [25, 26, 27, 28] True 1 A building
+7 [] True 4 A building
+[19.1790]ARRIVE-A-2-1
+1 [53, 54, 55, 56] True 3 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [25, 26, 27, 28] True 1 A building
+7 [] True 3 A building
+[19.1790]OPEN-A-2-1
+1 [53, 54, 55, 56] True 2 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [25, 26, 27, 28] True 1 A building
+7 [] True 3 A building
+[19.1790]OUT-53-A-2-1
+1 [53, 54, 55, 56] True 2 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [25, 26, 27, 28] True 1 A building
+7 [] True 3 A building
+[19.1790]OUT-54-A-2-1
+1 [54, 55, 56] True 2 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [25, 26, 27, 28] True 1 A building
+7 [] True 3 A building
+[19.1790]OUT-55-A-2-1
+1 [55, 56] True 2 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [25, 26, 27, 28] True 1 A building
+7 [] True 3 A building
+[19.1790]OUT-56-A-2-1
+1 [56] True 2 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [25, 26, 27, 28] True 1 A building
+7 [] True 3 A building
+[19.5320]CLOSE-A-1-6
+1 [] True 2 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [25, 26, 27, 28] True 1 A building
+7 [] True 3 A building
+[19.5890]CLOSE-A-2-1
+1 [] True 2 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [25, 26, 27, 28] True 1 A building
+7 [] True 3 A building
+[19.9470]ARRIVE-A-2-6
+1 [] True 2 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [25, 26, 27, 28] True 1 A building
+7 [] True 3 A building
+[20.3490]ARRIVE-A-3-6
+1 [] True 2 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [25, 26, 27, 28] True 2 A building
+7 [] True 3 A building
+[20.7580]ARRIVE-A-4-6
+1 [] True 2 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [25, 26, 27, 28] True 3 A building
+7 [] True 3 A building
+[21.1650]ARRIVE-A-5-6
+1 [] True 2 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [25, 26, 27, 28] True 4 A building
+7 [] True 3 A building
+[21.5690]ARRIVE-A-6-6
+1 [] True 2 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [25, 26, 27, 28] True 5 A building
+7 [] True 3 A building
+[21.9740]ARRIVE-A-7-6
+1 [] True 2 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [25, 26, 27, 28] True 6 A building
+7 [] True 3 A building
+[22.3870]ARRIVE-A-8-6
+1 [] True 2 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [25, 26, 27, 28] True 7 A building
+7 [] True 3 A building
+[22.8010]ARRIVE-A-9-6
+1 [] True 2 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [25, 26, 27, 28] True 8 A building
+7 [] True 3 A building
+[22.8010]OPEN-A-9-6
+1 [] True 2 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [25, 26, 27, 28] True 9 A building
+7 [] True 3 A building
+[22.8010]OUT-25-A-9-6
+1 [] True 2 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [25, 26, 27, 28] True 9 A building
+7 [] True 3 A building
+[22.8010]OUT-26-A-9-6
+1 [] True 2 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [26, 27, 28] True 9 A building
+7 [] True 3 A building
+[22.8010]OUT-27-A-9-6
+1 [] True 2 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [27, 28] True 9 A building
+7 [] True 3 A building
+[22.8010]OUT-28-A-9-6
+1 [] True 2 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [28] True 9 A building
+7 [] True 3 A building
+[23.2030]CLOSE-A-9-6
+1 [] True 2 A building
+2 [] True 1 B building
+3 [] True 1 C building
+4 [] True 1 D building
+5 [] True 1 E building
+6 [] True 9 A building
+7 [] True 3 A building

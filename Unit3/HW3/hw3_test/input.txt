@@ -1,0 +1,4600 @@
+ap 1 qgMet 55
+ap 2 qrMDj 160
+ap 3 XAWSvEBquT 55
+ap 4 uvo 55
+ap 5 aBrbcrwZjc 70
+ap 6 SEpa 123
+ap 7 sNnd 115
+ap 8 uiYTbpMoNk 106
+ap 9 pLKY 10
+ap 10 UiRgtN 97
+ap 11 lFOCyjP 18
+ap 12 vRdHZYmxl 188
+ap 13 oXJmNuUFdD 53
+ap 14 FnwNvA 157
+ap 15 nlnqWBqQ 120
+ap 16 v 149
+ap 17 YWpxIsy 4
+ap 18 CVspv 147
+ap 19 pFGPqjgA 57
+ap 20 lOv 173
+ap 21 KgEy 160
+ap 22 CtMtmThHC 44
+ap 23 g 39
+ap 24 KIXdr 140
+ap 25 DYFHGs 126
+ap 26 kELOLV 42
+ap 27 ZJPvU 113
+ap 28 cCQeVuCfm 13
+ap 29 ybJCJ 85
+ap 30 ZzzIaalaT 99
+ap 31 riqnWxdoTr 107
+ap 32 YnzCyYNBN 28
+ap 33 UCKerwr 50
+ap 34 P 131
+ap 35 NzP 92
+ap 36 LLszkmUuDV 117
+ap 37 nEZBzoGr 59
+ap 38 JnvW 70
+ap 39 EpBUJ 167
+ap 40 DuPvKG 55
+ap 41 YLcUpR 59
+ap 42 b 22
+ap 43 AmuyWxkM 133
+ap 44 NyVzGx 73
+ap 45 lc 119
+ap 46 oHkyPQBnRh 177
+ap 47 sNAJ 51
+ap 48 mnGZcg 44
+ap 49 rNT 97
+ap 50 fFwPltNBOG 118
+ap 51 yMvjt 79
+ap 52 cVZhHJB 102
+ap 53 uD 60
+ap 54 QBrqGCc 14
+ap 55 oJbONLrKb 88
+ap 56 oNoW 160
+ap 57 TATBiQzFg 126
+ap 58 geZgVKPd 179
+ap 59 nvR 154
+ap 60 vT 141
+ap 61 AuxLuuG 7
+ap 62 qHe 98
+ap 63 ZdMR 12
+ap 64 cRsixu 28
+ap 65 ICrXUV 104
+ap 66 wqmAXAM 192
+ap 67 UaHhyN 62
+ap 68 PTV 128
+ap 69 d 157
+ap 70 WJ 89
+ap 71 NJePn 124
+ap 72 sEc 1
+ap 73 gFrZZ 160
+ap 74 hhGSOFfczY 33
+ap 75 QYwSFkl 22
+ap 76 pbkUmqGjL 25
+ap 77 VQfZocQLl 147
+ap 78 Mx 100
+ap 79 bfoonaLDW 96
+ap 80 rtqnEkppV 75
+ap 81 lUgFiTHrR 20
+ap 82 i 63
+ap 83 hSwkW 119
+ap 84 ukRPcpMaX 4
+ap 85 TlDnyiO 75
+ap 86 EygaZGda 188
+ap 87 PHZRQal 194
+ap 88 SZtPIJaYHn 48
+ap 89 E 165
+ap 90 XLcwy 47
+ap 91 N 10
+ap 92 oNrz 62
+ap 93 u 81
+ap 94 hvjRWAfP 73
+ap 95 hF 63
+ap 96 IxCtxU 140
+ap 97 kUEMSVWx 170
+ap 98 ABhOZWh 17
+ap 99 nuMU 41
+ap 100 kYNcpAOhu 110
+ap 101 aen 3
+ap 102 uLfrE 106
+ap 103 rrlX 71
+ap 104 dBiSnFI 145
+ap 105 oTIeT 123
+ap 106 PVaBiBMnf 58
+ap 107 qAbyLG 22
+ap 108 fqVCUOS 166
+ap 109 NP 108
+ap 110 TRAMpUZQ 104
+ap 111 uQLBqWygy 97
+ap 112 X 53
+ap 113 XZ 4
+ap 114 Kcisv 163
+ap 115 pgx 178
+ap 116 AtUnvLXEX 138
+ap 117 fVuCZlHfY 137
+ap 118 L 150
+ap 119 TID 194
+ap 120 XGmcNtltj 99
+ap 121 tyF 44
+ap 122 WNZd 39
+ap 123 wSjf 59
+ap 124 VwbAAgaMP 21
+ap 125 jHer 54
+ap 126 cvRuOEO 192
+ap 127 qAZ 87
+ap 128 OOlnrw 193
+ap 129 VT 80
+ap 130 LxMu 130
+ap 131 uXyyEqQG 134
+ap 132 v 29
+ap 133 hIYCcg 55
+ap 134 d 98
+ap 135 h 79
+ap 136 ISd 144
+ap 137 lQqTYpUsbp 97
+ap 138 QYLua 156
+ap 139 W 128
+ap 140 WlZISFLy 24
+ap 141 vhXpscvIZu 67
+ap 142 OAAsatPk 9
+ap 143 syHkCtUi 59
+ap 144 KHGA 59
+ap 145 TzL 120
+ap 146 u 146
+ap 147 vSpc 126
+ap 148 VAO 27
+ap 149 W 3
+ap 150 vDqifQw 19
+ap 151 htRxdSt 164
+ap 152 inKxw 1
+ap 153 sfeWyzwt 146
+ap 154 jw 176
+ap 155 kgDeOlHC 96
+ap 156 fhPocfd 103
+ap 157 kgcLVjA 127
+ap 158 P 138
+ap 159 yGqXp 95
+ap 160 r 138
+ap 161 VgmwTAUmC 196
+ap 162 FHRSsBuZR 62
+ap 163 Ll 49
+ap 164 Vx 47
+ap 165 ZzqsLzSyMa 160
+ap 166 erwzLBnYy 25
+ap 167 tqPLFjp 192
+ap 168 Dntz 134
+ap 169 AsfnAhQ 161
+ap 170 uVMtbHs 165
+ap 171 vPLGBJAf 43
+ap 172 tRw 101
+ap 173 BqTNFzHe 17
+ap 174 cYF 129
+ap 175 Hje 98
+ap 176 nIe 162
+ap 177 OY 95
+ap 178 itz 48
+ap 179 JgSwJgxgDH 125
+ap 180 ClPQ 4
+ap 181 uEr 160
+ap 182 lYuGZSLzY 24
+ap 183 WzBIWWL 12
+ap 184 X 76
+ap 185 htQBRLvowV 75
+ap 186 MATIgTuxsV 67
+ap 187 cqUJGHqR 52
+ap 188 KU 35
+ap 189 DKgDISf 122
+ap 190 TzfWI 200
+ap 191 jQ 19
+ap 192 zItAjT 13
+ap 193 B 7
+ap 194 buuWCtH 34
+ap 195 pagsz 156
+ap 196 e 60
+ap 197 sPVM 9
+ap 198 fXUTA 90
+ap 199 k 8
+ap 200 c 26
+ap 201 BqC 93
+ap 202 jRMXfaWJM 89
+ap 203 bfgMj 147
+ap 204 Fvf 29
+ap 205 OL 178
+ap 206 fZby 58
+ap 207 buDpjdos 21
+ap 208 HEfpmjxSo 143
+ap 209 ZTQG 4
+ap 210 LJve 148
+ap 211 rMrEEJY 74
+ap 212 a 24
+ap 213 hOSLfU 84
+ap 214 b 67
+ap 215 KOY 33
+ap 216 P 54
+ap 217 bt 189
+ap 218 yhhYZU 21
+ap 219 xyBxdyMo 35
+ap 220 LVlxGjVNw 193
+ap 221 vfOG 183
+ap 222 f 85
+ap 223 qLDwn 39
+ap 224 gvhbDiUqBN 23
+ap 225 eUWxypgw 18
+ap 226 JHVNO 42
+ap 227 gp 62
+ap 228 WR 8
+ap 229 gNqVOXZR 182
+ap 230 pd 19
+ap 231 bBMi 35
+ap 232 SpMi 86
+ap 233 OZANEtPeZ 178
+ap 234 c 127
+ap 235 BWKgH 54
+ap 236 SZH 169
+ap 237 XtncWMZYNz 62
+ap 238 ZbWITcYH 115
+ap 239 W 55
+ap 240 VZi 181
+ap 241 fgn 56
+ap 242 XUl 118
+ap 243 xUXuCZJA 154
+ap 244 SqXDM 41
+ap 245 kyHHDWUH 35
+ap 246 FXo 27
+ap 247 w 194
+ap 248 BPxen 24
+ap 249 gUHp 151
+ap 250 MsE 56
+ap 251 vQhoPPKfEz 150
+ap 252 UYSAPZz 153
+ap 253 wNluDi 28
+ap 254 zOQ 153
+ap 255 ALXRIXo 153
+ap 256 PKIESfRV 199
+ap 257 AM 174
+ap 258 BKxBN 8
+ap 259 Jnm 144
+ap 260 IOHLPVwxMI 64
+ap 261 NlTtdh 95
+ap 262 KfLkmUB 31
+ap 263 PGqXoZ 113
+ap 264 qRncfhzw 40
+ap 265 bJXrt 4
+ap 266 zxlezn 182
+ap 267 KtdwVi 27
+ap 268 gcqElMp 133
+ap 269 Bpx 8
+ap 270 Yf 91
+ap 271 YGDfYpp 1
+ap 272 jnSwquB 122
+ap 273 wmnxXxZdFo 151
+ap 274 QHJQKXJp 168
+ap 275 jDyTHl 138
+ap 276 DPflgWdp 183
+ap 277 XkZAaR 104
+ap 278 m 189
+ap 279 moyw 54
+ap 280 mrm 5
+ap 281 vZmjVLHi 27
+ap 282 Q 168
+ap 283 VBSGGhAOz 56
+ap 284 If 24
+ap 285 eRVUHYgAuc 15
+ap 286 MmAFtwlrhz 154
+ap 287 GgM 45
+ap 288 goGddiG 88
+ap 289 wxS 69
+ap 290 yLK 49
+ap 291 qh 35
+ap 292 gNtx 67
+ap 293 VOdyMsZk 165
+ap 294 FJn 99
+ap 295 v 198
+ap 296 XEyGkVxc 141
+ap 297 Koouyqexnh 84
+ap 298 UWSjYhe 173
+ap 299 tBBtpPB 30
+ap 300 GqCjEKah 67
+ap 301 JK 52
+ap 302 attoQTN 37
+ap 303 SpnAF 61
+ap 304 rqzeOI 87
+ap 305 KWqQ 93
+ap 306 OxSVCVXI 158
+ap 307 x 148
+ap 308 mujmUkjk 142
+ap 309 KavrYQtM 121
+ap 310 jtHFleNWi 100
+ap 311 qHxFWa 50
+ap 312 cmby 156
+ap 313 hFTaLNUsT 148
+ap 314 K 101
+ap 315 D 110
+ap 316 g 111
+ap 317 XTosamU 82
+ap 318 d 127
+ap 319 reuCA 37
+ap 320 bdpAsiDJsf 174
+ap 321 LOPWL 62
+ap 322 LmuytQx 123
+ap 323 yHgWvi 88
+ap 324 lllom 109
+ap 325 pB 61
+ap 326 ar 185
+ap 327 Dgn 127
+ap 328 iTE 196
+ap 329 XblhjIfTih 75
+ap 330 t 188
+ap 331 SzJPxeV 106
+ap 332 rNx 95
+ap 333 xeT 86
+ap 334 XImpxnc 40
+ap 335 npbrX 79
+ap 336 Rb 142
+ap 337 fPL 19
+ap 338 F 11
+ap 339 dFibcJaUm 193
+ap 340 JuCTrUDF 124
+ap 341 Ter 66
+ap 342 I 105
+ap 343 ij 151
+ap 344 o 23
+ap 345 QBD 9
+ap 346 FOvQS 85
+ap 347 JrzfKM 145
+ap 348 DjJWC 143
+ap 349 k 158
+ap 350 QtKpb 182
+ap 351 RKgJnwPg 169
+ap 352 dc 68
+ap 353 SBiCXXqkbv 67
+ap 354 VmQCJhfo 58
+ap 355 ntq 121
+ap 356 ho 76
+ap 357 ZkqVMWTGv 30
+ap 358 RJCh 47
+ap 359 FZMGU 110
+ap 360 dbkUU 84
+ap 361 zA 76
+ap 362 cICcon 119
+ap 363 mAZBGzCHY 189
+ap 364 srzgCUnOC 34
+ap 365 NeAOTPgV 156
+ap 366 ewYHp 101
+ap 367 bMShcGavL 163
+ap 368 ppGVNaK 100
+ap 369 ayYYdziaqy 81
+ap 370 ca 87
+ap 371 bqo 197
+ap 372 x 34
+ap 373 cyf 56
+ap 374 bVgSXg 99
+ap 375 smcwlcEN 118
+ap 376 dpymg 41
+ap 377 m 154
+ap 378 za 85
+ap 379 QqRSKmfv 107
+ap 380 QjqaGg 185
+ap 381 jBA 148
+ap 382 cbRtOrOos 136
+ap 383 Nrgsai 128
+ap 384 Cs 19
+ap 385 tRWTfxc 22
+ap 386 EF 14
+ap 387 Aia 119
+ap 388 RexLp 52
+ap 389 Lrr 144
+ap 390 WnU 184
+ap 391 xzA 69
+ap 392 EYa 159
+ap 393 qwSDm 50
+ap 394 auBeo 143
+ap 395 X 199
+ap 396 xr 133
+ap 397 wcekbEYLO 177
+ap 398 BjxSy 88
+ap 399 vkfrvA 73
+ap 400 WOBoJ 61
+ap 401 JiJbrN 75
+ap 402 LNNt 58
+ap 403 HmZFlkc 63
+ap 404 VIYtsr 128
+ap 405 UubUHw 31
+ap 406 nS 166
+ap 407 py 191
+ap 408 KsngrM 66
+ap 409 Uorl 134
+ap 410 DWfwGcSS 123
+ap 411 opNfrjv 87
+ap 412 cohhOteEfa 155
+ap 413 DXjzB 149
+ap 414 iwSvSnU 140
+ap 415 rUnrneiGdy 81
+ap 416 cyCYn 144
+ap 417 jUQ 72
+ap 418 fsAQlODA 159
+ap 419 AlzLy 112
+ap 420 Dfb 113
+ap 421 DGqu 58
+ap 422 VJU 134
+ap 423 fID 196
+ap 424 eWdAxqaU 108
+ap 425 PpvsLbMhU 30
+ap 426 ImLY 115
+ap 427 bf 63
+ap 428 RA 195
+ap 429 LmttrL 148
+ap 430 AHEdZc 153
+ap 431 Fblvbdo 78
+ap 432 KUr 84
+ap 433 DxouWflhnD 146
+ap 434 vcolikbr 179
+ap 435 yvqtiGX 104
+ap 436 TvusFypr 161
+ap 437 BK 101
+ap 438 ZKewLLt 102
+ap 439 ZeswUfa 150
+ap 440 lchMNjTY 108
+ap 441 uIhA 48
+ap 442 GhS 127
+ap 443 cy 20
+ap 444 rRY 110
+ap 445 pa 53
+ap 446 lrSZmR 62
+ap 447 CteWf 131
+ap 448 Sik 72
+ap 449 LDDftsR 173
+ap 450 hSrsxh 137
+ap 451 E 161
+ap 452 o 199
+ap 453 BJFEKmfNvK 130
+ap 454 tNNUTg 158
+ap 455 k 173
+ap 456 xRkNkDMhyR 20
+ap 457 PQ 108
+ap 458 tF 176
+ap 459 tMMT 51
+ap 460 fiwF 40
+ap 461 MSeHYz 9
+ap 462 n 118
+ap 463 Wpkwl 41
+ap 464 u 198
+ap 465 etAwFmZyA 173
+ap 466 Xi 152
+ap 467 RabHEaF 99
+ap 468 CIOZjp 191
+ap 469 XwFNHC 61
+ap 470 HfAgKOGM 118
+ap 471 cLzi 22
+ap 472 wKARNg 26
+ap 473 pMVveUjt 107
+ap 474 Vv 125
+ap 475 xYxO 78
+ap 476 K 143
+ap 477 eAPlIlwP 36
+ap 478 S 114
+ap 479 jbmKyfTmfh 37
+ap 480 hKwVPdXH 162
+ap 481 PQyuPl 185
+ap 482 BgtyKrMW 3
+ap 483 fpMl 111
+ap 484 q 3
+ap 485 rpPwcQLl 94
+ap 486 M 40
+ap 487 J 30
+ap 488 MStxJ 27
+ap 489 zjHOjLIoW 5
+ap 490 tmKuWwWcSC 164
+ap 491 fgKyjEZRW 117
+ap 492 Nt 106
+ap 493 TuuppAP 129
+ap 494 CVIFshb 106
+ap 495 EEdRnS 99
+ap 496 ZIehgM 6
+ap 497 yedipilS 68
+ap 498 BnAXq 185
+ap 499 hXFsUf 190
+ap 500 MNbD 193
+ar 106 434 629
+ar 137 180 514
+ar 288 408 402
+ar 398 461 791
+ar 44 305 177
+ar 212 431 199
+ar 108 368 889
+ar 63 385 273
+ar 312 434 221
+ar 285 329 289
+ar 68 471 977
+ar 338 458 849
+ar 100 203 851
+ar 107 420 58
+ar 120 133 238
+ar 26 103 283
+ar 281 290 283
+ar 297 366 913
+ar 323 494 18
+ar 103 141 213
+ar 33 178 706
+ar 95 192 38
+ar 89 423 24
+ar 255 286 729
+ar 98 264 956
+ar 316 417 57
+ar 192 360 545
+ar 375 379 143
+ar 186 203 840
+ar 7 460 261
+ar 8 16 11
+ar 28 85 450
+ar 51 309 916
+ar 203 463 144
+ar 49 299 198
+ar 88 304 630
+ar 168 486 717
+ar 6 450 891
+ar 455 459 421
+ar 60 487 467
+ar 12 399 658
+ar 1 225 55
+ar 198 288 979
+ar 390 457 701
+ar 35 108 629
+ar 86 363 565
+ar 136 200 610
+ar 124 327 888
+ar 45 121 231
+ar 47 124 882
+ar 410 490 367
+ar 72 274 47
+ar 344 474 939
+ar 132 262 500
+ar 16 115 391
+ar 118 141 112
+ar 190 232 792
+ar 230 398 939
+ar 1 185 377
+ar 118 297 555
+ar 50 493 818
+ar 73 500 835
+ar 10 115 364
+ar 339 345 207
+ar 172 443 736
+ar 129 192 526
+ar 36 409 37
+ar 107 349 871
+ar 115 349 99
+ar 208 440 9
+ar 103 107 107
+ar 151 235 709
+ar 424 460 494
+ar 197 254 858
+ar 217 276 519
+ar 132 320 902
+ar 81 260 600
+ar 111 313 400
+ar 373 411 503
+ar 56 136 323
+ar 24 480 999
+ar 71 334 849
+ar 408 458 52
+ar 162 229 977
+ar 28 124 266
+ar 153 188 131
+ar 388 477 140
+ar 75 491 371
+ar 201 484 510
+ar 247 287 339
+ar 115 260 330
+ar 147 223 185
+ar 302 381 362
+ar 206 368 19
+ar 31 436 128
+ar 253 311 154
+ar 30 250 603
+ar 76 380 571
+ar 4 81 289
+ar 234 496 134
+ar 420 422 138
+ar 77 353 202
+ar 62 490 689
+ar 430 471 422
+ar 211 375 911
+ar 349 425 887
+ar 473 483 562
+ar 60 98 670
+ar 107 431 770
+ar 30 114 374
+ar 3 245 310
+ar 201 233 681
+ar 53 348 387
+ar 12 272 179
+ar 403 486 317
+ar 311 401 18
+ar 224 488 756
+ar 179 282 422
+ar 13 279 215
+ar 404 421 682
+ar 64 490 177
+ar 28 119 246
+ar 132 179 416
+ar 131 459 578
+ar 130 212 142
+ar 5 449 368
+ar 66 392 309
+ar 42 373 659
+ar 92 413 312
+ar 67 164 863
+ar 288 416 188
+ar 84 481 600
+ar 14 378 686
+ar 69 483 211
+ar 438 446 207
+ar 237 260 860
+ar 209 273 920
+ar 432 476 379
+ar 238 305 712
+ar 123 378 223
+ar 407 457 207
+ar 70 226 498
+ar 127 406 822
+ar 71 274 432
+ar 40 398 136
+ar 393 446 786
+ar 31 102 9
+ar 216 493 664
+ar 95 249 773
+ar 42 114 255
+ar 55 180 290
+ar 80 291 117
+ar 357 450 375
+ar 486 500 461
+ar 138 164 181
+ar 61 100 634
+ar 227 390 382
+ar 146 431 529
+ar 339 349 977
+ar 124 318 133
+ar 194 298 926
+ar 33 361 851
+ar 142 169 925
+ar 156 348 912
+ar 366 431 315
+ar 189 479 845
+ar 29 412 108
+ar 42 92 791
+ar 219 397 72
+ar 43 131 995
+ar 10 24 698
+ar 44 429 598
+ar 106 236 892
+ar 73 401 54
+ar 252 441 331
+ar 192 332 502
+ar 323 416 656
+ar 94 262 221
+ar 159 272 254
+ar 132 369 903
+ar 194 313 179
+ar 422 455 994
+ar 68 206 233
+ar 10 330 798
+ar 179 351 548
+ar 56 144 591
+ar 26 295 565
+ar 45 350 781
+ar 171 183 399
+ar 56 354 954
+ar 274 396 273
+ar 322 437 125
+ar 254 310 309
+ar 262 424 22
+ar 147 413 723
+ar 83 496 296
+ar 12 318 195
+ar 165 335 397
+ar 34 209 912
+ar 88 463 725
+ar 149 264 122
+ar 132 445 548
+ar 44 317 644
+ar 127 371 534
+ar 359 471 112
+ar 205 272 510
+ar 375 429 905
+ar 60 408 192
+ar 384 460 326
+ar 41 444 599
+ar 4 165 144
+ar 250 297 410
+ar 344 362 19
+ar 140 377 879
+ar 315 458 834
+ar 117 196 60
+ar 49 164 27
+ar 203 289 535
+ar 10 460 127
+ar 32 418 187
+ar 116 336 500
+ar 133 134 504
+ar 130 246 498
+ar 203 268 72
+ar 222 405 953
+ar 10 71 446
+ar 84 133 337
+ar 27 94 604
+ar 47 392 496
+ar 63 409 298
+ar 38 451 783
+ar 75 406 624
+ar 210 267 217
+ar 115 164 275
+ar 35 415 427
+ar 97 109 236
+ar 67 102 361
+ar 96 419 823
+ar 234 355 57
+ar 20 187 770
+ar 129 232 765
+ar 241 432 288
+ar 153 420 738
+ar 211 409 33
+ar 398 442 830
+ar 189 293 577
+ar 382 426 11
+ar 69 298 776
+ar 307 403 299
+ar 112 116 265
+ar 214 269 300
+ar 380 381 712
+ar 230 245 579
+ar 140 224 876
+ar 22 73 912
+ar 114 136 180
+ar 346 496 509
+ar 176 369 110
+ar 229 494 678
+ar 314 367 775
+ar 403 410 53
+ar 243 391 327
+ar 258 458 429
+ar 152 165 177
+ar 200 300 42
+ar 144 177 320
+ar 106 313 602
+ar 268 479 172
+ar 170 306 852
+ar 136 253 279
+ar 224 428 840
+ar 87 145 662
+ar 183 237 384
+ar 101 360 94
+ar 291 482 302
+ar 49 392 869
+ar 47 252 291
+ar 23 428 841
+ar 167 292 789
+ar 209 257 568
+ar 423 467 689
+ar 157 216 35
+ar 55 249 702
+ar 133 165 434
+ar 208 350 464
+ar 283 496 62
+ar 297 454 829
+ar 259 261 91
+ar 163 450 105
+ar 103 374 299
+ar 16 197 998
+ar 110 263 330
+ar 53 112 103
+ar 34 307 991
+ar 121 280 366
+ar 114 147 281
+ar 145 372 173
+ar 65 364 495
+ar 114 372 831
+ar 175 352 546
+ar 169 421 360
+ar 22 79 597
+ar 128 247 890
+ar 445 494 436
+ar 369 402 697
+ar 249 420 212
+ar 139 231 204
+ar 4 467 721
+ar 35 258 630
+ar 188 484 194
+ar 173 341 670
+ar 35 43 310
+ar 53 418 398
+ar 24 37 396
+ar 82 465 579
+ar 468 497 710
+ar 241 248 488
+ar 181 434 31
+ar 208 212 853
+ar 315 461 478
+ar 84 407 580
+ar 31 239 11
+ar 364 386 877
+ar 259 270 801
+ar 146 432 592
+ar 113 314 366
+ar 205 347 268
+ar 407 500 560
+ar 376 472 712
+ar 276 358 259
+ar 317 458 226
+ar 234 431 127
+ar 253 478 753
+ar 433 453 733
+ar 84 213 468
+ar 279 428 176
+ar 15 94 404
+ar 365 479 238
+ar 269 344 95
+ar 89 193 62
+ar 53 111 678
+ar 38 49 953
+ar 5 162 459
+ar 46 315 167
+ar 234 296 948
+ar 202 371 711
+ar 216 260 590
+ar 161 176 739
+ar 16 256 200
+ar 262 331 740
+ar 145 159 545
+ar 119 390 430
+ar 94 241 274
+ar 434 463 485
+ar 13 268 755
+ar 127 252 183
+ar 334 493 781
+ar 6 350 230
+ar 274 374 315
+ar 119 438 475
+ar 273 302 728
+ar 95 102 46
+ar 161 442 870
+ar 318 480 815
+ar 89 495 586
+ar 378 480 430
+ar 42 339 551
+ar 35 113 349
+ar 348 485 501
+ar 150 154 916
+ar 59 244 410
+ar 224 403 693
+ar 191 405 657
+ar 11 58 21
+ar 443 462 660
+ar 63 72 18
+ar 57 125 179
+ar 151 280 215
+ar 82 315 754
+ar 345 477 228
+ar 113 417 606
+ar 42 124 507
+ar 403 479 747
+ar 409 499 762
+ar 52 154 703
+ar 93 360 53
+ar 73 150 147
+ar 416 453 817
+ar 71 362 223
+ar 308 416 319
+ar 21 69 668
+ar 244 277 333
+ar 61 291 702
+ar 105 150 156
+ar 39 56 835
+ar 154 374 343
+ar 278 325 177
+ar 167 457 243
+ar 8 155 160
+ar 261 283 136
+ar 109 361 540
+ar 22 464 76
+ar 257 427 497
+ar 24 356 594
+ar 287 328 117
+ar 250 391 518
+ar 18 147 785
+ar 151 262 475
+ar 56 190 322
+ar 351 461 889
+ar 65 413 836
+ar 335 410 547
+ar 226 450 291
+ar 212 422 455
+ar 142 257 228
+ar 142 397 741
+ar 152 451 558
+ar 123 127 978
+ar 5 237 288
+ar 44 288 503
+ar 134 247 277
+ar 29 387 414
+ar 242 358 356
+ar 243 251 476
+ar 84 273 4
+ar 45 463 208
+ar 264 314 103
+ar 237 251 701
+ar 268 378 36
+ar 42 120 584
+ar 101 440 408
+ar 322 331 796
+ar 81 119 150
+ar 218 312 444
+ar 342 479 931
+ar 96 240 915
+ar 12 170 316
+ar 136 437 226
+ar 44 257 205
+ar 141 248 272
+ar 146 303 519
+ar 245 370 435
+ar 281 283 946
+ar 158 408 293
+ar 46 170 10
+ar 27 233 186
+ar 210 306 509
+ar 54 314 842
+ar 386 454 715
+ar 264 340 877
+ar 247 387 296
+ar 104 321 684
+ar 67 146 567
+ar 121 429 670
+ar 322 500 346
+ar 223 489 461
+ar 175 299 713
+ar 332 475 133
+ar 165 350 869
+ar 65 313 780
+ar 35 408 788
+ar 82 437 165
+ar 388 398 652
+ar 61 254 960
+ar 306 475 698
+ar 8 243 212
+ar 107 284 7
+ar 5 464 703
+ar 82 364 357
+ar 52 331 886
+ar 284 310 909
+ar 207 243 922
+ar 274 477 651
+ar 294 373 557
+ar 307 475 351
+ar 192 244 44
+ar 54 152 575
+ar 385 494 529
+ar 225 456 474
+ar 167 392 763
+ar 130 159 189
+ar 339 376 237
+ar 302 350 204
+ar 339 407 831
+ar 24 229 595
+ar 228 262 285
+ar 262 377 479
+ar 91 117 597
+ar 234 467 28
+ar 68 499 711
+ar 97 154 83
+ar 47 375 932
+ar 31 322 801
+ar 64 431 157
+ar 109 285 34
+ar 318 498 575
+ar 139 301 679
+ar 34 490 700
+ar 183 496 131
+ar 14 121 533
+ar 113 246 71
+ar 158 378 513
+ar 244 480 362
+ar 63 249 550
+ar 86 394 696
+ar 255 368 762
+ar 171 311 672
+ar 13 59 4
+ar 84 245 880
+ar 90 245 468
+ar 323 390 992
+ar 141 297 99
+ar 127 229 680
+ar 36 153 226
+ar 70 315 4
+ar 94 480 650
+ar 84 410 894
+ar 318 358 440
+ar 159 389 698
+ar 66 110 311
+ar 151 342 332
+ar 337 424 855
+ar 32 130 330
+ar 18 264 170
+ar 225 390 539
+ar 70 455 114
+ar 232 448 266
+ar 82 387 6
+ar 297 458 150
+ar 143 217 1
+ar 32 404 239
+ar 287 289 248
+ar 143 358 354
+ar 198 475 897
+ar 24 29 284
+ar 239 444 877
+ar 301 391 221
+ar 2 110 800
+ar 227 314 904
+ar 38 89 881
+ar 414 424 30
+ar 245 403 966
+ar 469 492 305
+ar 39 317 351
+ar 176 410 947
+ar 183 194 56
+ar 103 408 459
+ar 302 366 187
+ar 351 388 987
+ar 15 416 638
+ar 162 324 17
+ar 226 229 505
+ar 49 332 952
+ar 144 185 183
+ar 41 273 489
+ar 108 362 88
+ar 218 265 634
+ar 97 255 217
+ar 230 493 173
+ar 44 417 760
+ar 34 431 293
+ar 294 402 185
+ar 378 402 918
+ar 303 498 120
+ar 138 457 609
+ar 203 328 920
+ar 444 451 649
+ar 415 453 484
+ar 12 97 340
+ar 51 467 633
+ar 41 440 207
+ar 27 402 458
+ar 152 240 183
+ar 86 350 842
+ar 39 295 548
+ar 258 448 41
+ar 199 412 237
+ar 62 461 240
+ar 148 465 495
+ar 243 340 182
+ar 137 410 816
+ar 79 399 576
+ar 199 265 437
+ar 141 166 476
+ar 359 482 797
+ar 4 357 898
+ar 25 251 819
+ar 159 499 45
+ar 3 272 722
+ar 165 428 718
+ar 431 433 76
+ar 85 418 210
+ar 31 419 894
+ar 33 131 544
+ar 60 147 743
+ar 125 145 815
+ar 26 357 129
+ar 45 284 252
+ar 5 246 101
+ar 99 386 16
+ar 192 424 971
+ar 186 236 952
+ar 143 325 426
+ar 378 456 831
+ar 397 492 224
+ar 282 474 232
+ar 260 321 97
+ar 200 334 568
+ar 69 366 203
+ar 359 448 592
+ar 152 414 695
+ar 451 487 296
+ar 284 374 811
+ar 79 101 418
+ar 303 437 193
+ar 120 459 133
+ar 109 467 220
+ar 303 326 198
+ar 388 397 319
+ar 211 378 851
+ar 57 244 275
+ar 268 493 173
+ar 154 296 76
+ar 95 181 502
+ar 52 434 563
+ar 142 293 811
+ar 117 342 781
+ar 425 497 853
+ar 224 477 670
+ar 158 209 850
+ar 133 290 980
+ar 61 81 133
+ar 105 343 116
+ar 275 349 316
+ar 74 347 31
+ar 337 345 21
+ar 308 429 112
+ar 102 177 811
+ar 458 484 752
+ar 338 391 497
+ar 158 404 754
+ar 170 310 684
+ar 125 134 135
+ar 155 408 165
+ar 387 486 707
+ar 31 443 820
+ar 16 58 438
+ar 281 326 247
+ar 243 383 168
+ar 392 405 950
+ar 50 304 803
+ar 195 308 919
+ar 285 418 31
+ar 84 375 453
+ar 44 353 655
+ar 221 239 18
+ar 2 58 534
+ar 207 427 127
+ar 261 264 828
+ar 21 447 296
+ar 122 333 493
+ar 21 274 221
+ar 44 388 453
+ar 237 412 24
+ar 155 260 986
+ar 339 418 348
+ar 54 81 259
+ar 2 102 53
+ar 41 499 769
+ar 409 479 578
+ar 218 375 290
+ar 114 287 48
+ar 280 331 724
+ar 313 475 335
+ar 161 300 64
+ar 116 492 605
+ar 205 480 830
+ar 310 473 430
+ar 322 424 545
+ar 126 335 674
+ar 135 292 511
+ar 63 213 568
+ar 299 466 972
+ar 102 213 879
+ar 77 460 476
+ar 67 362 316
+ar 63 277 229
+ar 19 23 176
+ar 261 364 141
+ar 234 404 140
+ar 126 456 414
+ar 85 316 31
+ar 169 290 600
+ar 2 188 575
+ar 165 213 23
+ar 374 484 374
+ar 205 297 864
+ar 63 276 828
+ar 222 407 621
+ar 97 492 884
+ar 200 498 946
+ar 388 457 606
+ar 36 381 966
+ar 26 158 575
+ar 352 464 994
+ar 143 231 145
+ar 321 450 530
+ar 354 451 476
+ar 2 225 578
+ar 184 434 707
+ar 214 219 216
+ar 49 433 129
+ar 224 345 184
+ar 42 132 288
+ar 140 351 345
+ar 72 378 451
+ar 7 223 409
+ar 178 369 970
+ar 112 403 772
+ar 69 255 729
+ar 96 498 312
+ar 311 476 245
+ar 299 302 707
+ar 258 399 139
+ar 274 323 779
+ar 167 263 998
+ar 79 312 528
+ar 270 400 957
+ar 148 457 63
+ar 60 328 155
+ar 29 257 909
+ar 245 360 986
+ar 460 491 554
+ar 310 350 194
+ar 168 358 534
+ar 137 395 847
+ar 252 319 806
+ar 191 475 57
+ar 51 457 492
+ar 173 248 720
+ar 453 494 773
+ar 87 233 987
+ar 371 469 176
+ar 315 370 958
+ar 290 499 27
+ar 150 439 635
+ar 272 292 590
+ag 1
+ag 2
+ag 3
+ag 4
+ag 5
+atg 1 1
+atg 1 2
+atg 1 3
+atg 1 4
+atg 1 5
+atg 2 3
+atg 2 4
+atg 3 1
+atg 3 2
+atg 4 4
+atg 4 5
+atg 5 1
+atg 5 2
+atg 6 2
+atg 7 5
+atg 8 2
+atg 8 3
+atg 8 4
+atg 9 3
+atg 10 2
+atg 11 5
+atg 12 1
+atg 12 2
+atg 12 3
+atg 13 4
+atg 13 5
+atg 14 1
+atg 14 2
+atg 14 3
+atg 14 4
+atg 14 5
+atg 15 2
+atg 16 2
+atg 17 3
+atg 18 3
+atg 18 4
+atg 19 2
+atg 19 3
+atg 19 4
+atg 19 5
+atg 20 3
+atg 21 2
+atg 22 3
+atg 22 4
+atg 23 2
+atg 23 3
+atg 24 2
+atg 25 2
+atg 25 3
+atg 25 4
+atg 25 5
+atg 26 2
+atg 26 3
+atg 26 4
+atg 27 2
+atg 27 3
+atg 27 4
+atg 28 3
+atg 29 2
+atg 30 3
+atg 30 4
+atg 30 5
+atg 31 2
+atg 32 1
+atg 32 2
+atg 32 3
+atg 32 4
+atg 33 2
+atg 33 3
+atg 33 4
+atg 34 1
+atg 34 2
+atg 34 3
+atg 34 4
+atg 35 4
+atg 36 2
+atg 36 3
+atg 37 1
+atg 37 2
+atg 37 3
+atg 38 2
+atg 39 1
+atg 39 2
+atg 39 3
+atg 40 1
+atg 40 2
+atg 40 3
+atg 41 2
+atg 41 3
+atg 41 4
+atg 41 5
+atg 42 2
+atg 42 3
+atg 43 2
+atg 43 3
+atg 43 4
+atg 44 2
+atg 45 1
+atg 45 2
+atg 45 3
+atg 46 1
+atg 46 2
+atg 46 3
+atg 46 4
+atg 47 2
+atg 47 3
+atg 48 1
+atg 48 2
+atg 48 3
+atg 49 1
+atg 49 2
+atg 50 3
+atg 50 4
+atg 51 1
+atg 51 2
+atg 51 3
+atg 52 4
+atg 53 1
+atg 53 2
+atg 53 3
+atg 53 4
+atg 54 2
+atg 54 3
+atg 54 4
+atg 55 2
+atg 55 3
+atg 55 4
+atg 56 1
+atg 56 2
+atg 57 2
+atg 58 4
+atg 58 5
+atg 59 3
+atg 59 4
+atg 60 1
+atg 60 2
+atg 60 3
+atg 61 1
+atg 61 2
+atg 62 1
+atg 62 2
+atg 62 3
+atg 62 4
+atg 62 5
+atg 63 3
+atg 63 4
+atg 63 5
+atg 64 1
+atg 64 2
+atg 64 3
+atg 65 3
+atg 65 4
+atg 66 1
+atg 66 2
+atg 67 1
+atg 67 2
+atg 68 2
+atg 69 1
+atg 69 2
+atg 70 2
+atg 71 1
+atg 71 2
+atg 71 3
+atg 72 1
+atg 72 2
+atg 72 3
+atg 73 4
+atg 73 5
+atg 74 5
+atg 75 2
+atg 75 3
+atg 76 3
+atg 77 2
+atg 78 4
+atg 79 3
+atg 79 4
+atg 80 1
+atg 80 2
+atg 80 3
+atg 80 4
+atg 81 3
+atg 81 4
+atg 82 2
+atg 82 3
+atg 82 4
+atg 83 1
+atg 83 2
+atg 84 3
+atg 85 3
+atg 86 2
+atg 86 3
+atg 86 4
+atg 86 5
+atg 87 1
+atg 87 2
+atg 87 3
+atg 88 2
+atg 89 5
+atg 90 3
+atg 91 2
+atg 92 2
+atg 92 3
+atg 92 4
+atg 93 3
+atg 94 1
+atg 94 2
+atg 94 3
+atg 95 1
+atg 95 2
+atg 95 3
+atg 96 2
+atg 97 5
+atg 98 1
+atg 98 2
+atg 98 3
+atg 98 4
+atg 98 5
+atg 99 4
+atg 99 5
+atg 100 2
+atg 101 3
+atg 101 4
+atg 101 5
+atg 102 2
+atg 102 3
+atg 102 4
+atg 103 3
+atg 104 3
+atg 104 4
+atg 105 4
+atg 106 1
+atg 106 2
+atg 106 3
+atg 107 5
+atg 108 2
+atg 109 1
+atg 109 2
+atg 109 3
+atg 109 4
+atg 109 5
+atg 110 3
+atg 110 4
+atg 110 5
+atg 111 2
+atg 111 3
+atg 112 1
+atg 112 2
+atg 113 4
+atg 113 5
+atg 114 4
+atg 115 2
+atg 115 3
+atg 115 4
+atg 116 1
+atg 116 2
+atg 116 3
+atg 117 4
+atg 118 1
+atg 118 2
+atg 118 3
+atg 118 4
+atg 119 1
+atg 119 2
+atg 119 3
+atg 119 4
+atg 119 5
+atg 120 1
+atg 120 2
+atg 121 2
+atg 121 3
+atg 122 1
+atg 122 2
+atg 122 3
+atg 123 3
+atg 123 4
+atg 123 5
+atg 124 2
+atg 125 2
+atg 126 1
+atg 126 2
+atg 127 2
+atg 128 1
+atg 128 2
+atg 129 1
+atg 129 2
+atg 129 3
+atg 130 1
+atg 130 2
+atg 131 3
+atg 131 4
+atg 131 5
+atg 132 3
+atg 132 4
+atg 132 5
+atg 133 3
+atg 133 4
+atg 133 5
+atg 134 1
+atg 134 2
+atg 135 5
+atg 136 3
+atg 137 2
+atg 137 3
+atg 137 4
+atg 138 3
+atg 138 4
+atg 138 5
+atg 139 2
+atg 139 3
+atg 139 4
+atg 140 1
+atg 140 2
+atg 141 2
+atg 142 3
+atg 143 3
+atg 143 4
+atg 144 5
+atg 145 3
+atg 146 3
+atg 146 4
+atg 147 2
+atg 147 3
+atg 147 4
+atg 148 1
+atg 148 2
+atg 149 3
+atg 149 4
+atg 150 1
+atg 150 2
+atg 151 1
+atg 151 2
+atg 152 2
+atg 153 2
+atg 154 2
+atg 154 3
+atg 154 4
+atg 155 1
+atg 155 2
+atg 156 3
+atg 157 1
+atg 157 2
+atg 157 3
+atg 157 4
+atg 158 2
+atg 159 2
+atg 160 5
+atg 161 4
+atg 161 5
+atg 162 2
+atg 163 4
+atg 163 5
+atg 164 4
+atg 164 5
+atg 165 1
+atg 165 2
+atg 165 3
+atg 166 1
+atg 166 2
+atg 166 3
+atg 166 4
+atg 167 3
+atg 167 4
+atg 167 5
+atg 168 1
+atg 168 2
+atg 168 3
+atg 169 2
+atg 170 1
+atg 170 2
+atg 170 3
+atg 171 3
+atg 172 1
+atg 172 2
+atg 173 3
+atg 173 4
+atg 174 1
+atg 174 2
+atg 175 3
+atg 176 1
+atg 176 2
+atg 176 3
+atg 177 2
+atg 177 3
+atg 178 5
+atg 179 4
+atg 180 3
+atg 180 4
+atg 180 5
+atg 181 2
+atg 182 3
+atg 182 4
+atg 183 1
+atg 183 2
+atg 183 3
+atg 184 4
+atg 184 5
+atg 185 4
+atg 185 5
+atg 186 1
+atg 186 2
+atg 186 3
+atg 187 2
+atg 188 1
+atg 188 2
+atg 188 3
+atg 188 4
+atg 189 2
+atg 190 4
+atg 191 1
+atg 191 2
+atg 191 3
+atg 191 4
+atg 191 5
+atg 192 3
+atg 193 4
+atg 193 5
+atg 194 5
+atg 195 1
+atg 195 2
+atg 196 3
+atg 197 2
+atg 197 3
+atg 197 4
+atg 198 3
+atg 198 4
+atg 198 5
+atg 199 1
+atg 199 2
+atg 199 3
+atg 199 4
+atg 199 5
+atg 200 1
+atg 200 2
+atg 201 1
+atg 201 2
+atg 202 2
+atg 202 3
+atg 203 2
+atg 204 3
+atg 205 4
+atg 206 1
+atg 206 2
+atg 206 3
+atg 207 4
+atg 207 5
+atg 208 3
+atg 209 3
+atg 209 4
+atg 210 2
+atg 210 3
+atg 210 4
+atg 211 1
+atg 211 2
+atg 212 1
+atg 212 2
+atg 213 3
+atg 214 3
+atg 214 4
+atg 215 2
+atg 215 3
+atg 216 3
+atg 216 4
+atg 217 3
+atg 217 4
+atg 218 1
+atg 218 2
+atg 219 4
+atg 219 5
+atg 220 1
+atg 220 2
+atg 220 3
+atg 220 4
+atg 221 3
+atg 221 4
+atg 222 2
+atg 222 3
+atg 222 4
+atg 223 2
+atg 224 5
+atg 225 2
+atg 225 3
+atg 225 4
+atg 225 5
+atg 226 3
+atg 226 4
+atg 227 2
+atg 227 3
+atg 228 5
+atg 229 3
+atg 229 4
+atg 230 4
+atg 231 1
+atg 231 2
+atg 231 3
+atg 231 4
+atg 232 3
+atg 233 1
+atg 233 2
+atg 233 3
+atg 233 4
+atg 234 3
+atg 234 4
+atg 234 5
+atg 235 2
+atg 235 3
+atg 236 1
+atg 236 2
+atg 237 1
+atg 237 2
+atg 237 3
+atg 237 4
+atg 238 3
+atg 238 4
+atg 238 5
+atg 239 5
+atg 240 2
+atg 240 3
+atg 240 4
+atg 240 5
+atg 241 2
+atg 241 3
+atg 241 4
+atg 242 3
+atg 242 4
+atg 242 5
+atg 243 3
+atg 243 4
+atg 243 5
+atg 244 3
+atg 244 4
+atg 245 1
+atg 245 2
+atg 246 1
+atg 246 2
+atg 246 3
+atg 246 4
+atg 246 5
+atg 247 3
+atg 247 4
+atg 247 5
+atg 248 1
+atg 248 2
+atg 249 1
+atg 249 2
+atg 249 3
+atg 250 2
+atg 251 1
+atg 251 2
+atg 252 2
+atg 253 5
+atg 254 2
+atg 254 3
+atg 254 4
+atg 254 5
+atg 255 1
+atg 255 2
+atg 256 4
+atg 256 5
+atg 257 2
+atg 258 1
+atg 258 2
+atg 258 3
+atg 258 4
+atg 259 1
+atg 259 2
+atg 260 1
+atg 260 2
+atg 260 3
+atg 261 2
+atg 261 3
+atg 261 4
+atg 262 2
+atg 262 3
+atg 262 4
+atg 263 1
+atg 263 2
+atg 264 2
+atg 264 3
+atg 264 4
+atg 265 3
+atg 266 2
+atg 267 1
+atg 267 2
+atg 267 3
+atg 267 4
+atg 268 5
+atg 269 1
+atg 269 2
+atg 270 1
+atg 270 2
+atg 270 3
+atg 271 4
+atg 272 3
+atg 273 5
+atg 274 3
+atg 274 4
+atg 275 1
+atg 275 2
+atg 275 3
+atg 275 4
+atg 276 1
+atg 276 2
+atg 276 3
+atg 276 4
+atg 277 4
+atg 277 5
+atg 278 3
+atg 279 2
+atg 279 3
+atg 279 4
+atg 280 3
+atg 281 2
+atg 281 3
+atg 282 2
+atg 283 4
+atg 283 5
+atg 284 4
+atg 284 5
+atg 285 4
+atg 286 1
+atg 286 2
+atg 286 3
+atg 287 1
+atg 287 2
+atg 287 3
+atg 287 4
+atg 287 5
+atg 288 3
+atg 288 4
+atg 289 3
+atg 289 4
+atg 290 2
+atg 290 3
+atg 291 1
+atg 291 2
+atg 291 3
+atg 292 3
+atg 293 1
+atg 293 2
+atg 293 3
+atg 293 4
+atg 294 1
+atg 294 2
+atg 295 3
+atg 296 3
+atg 296 4
+atg 296 5
+atg 297 2
+atg 297 3
+atg 297 4
+atg 297 5
+atg 298 2
+atg 298 3
+atg 299 2
+atg 299 3
+atg 299 4
+atg 299 5
+atg 300 3
+atg 300 4
+atg 301 2
+atg 302 4
+atg 302 5
+atg 303 4
+atg 304 4
+atg 305 1
+atg 305 2
+atg 305 3
+atg 306 1
+atg 306 2
+atg 307 3
+atg 307 4
+atg 308 2
+atg 308 3
+atg 309 3
+atg 310 1
+atg 310 2
+atg 310 3
+atg 310 4
+atg 311 5
+atg 312 2
+atg 312 3
+atg 312 4
+atg 312 5
+atg 313 1
+atg 313 2
+atg 314 1
+atg 314 2
+atg 314 3
+atg 315 1
+atg 315 2
+atg 315 3
+atg 315 4
+atg 315 5
+atg 316 1
+atg 316 2
+atg 316 3
+atg 317 2
+atg 317 3
+atg 317 4
+atg 317 5
+atg 318 2
+atg 318 3
+atg 319 2
+atg 320 1
+atg 320 2
+atg 320 3
+atg 321 2
+atg 321 3
+atg 321 4
+atg 322 3
+atg 323 2
+atg 323 3
+atg 324 3
+atg 324 4
+atg 324 5
+atg 325 2
+atg 325 3
+atg 325 4
+atg 326 2
+atg 327 3
+atg 327 4
+atg 327 5
+atg 328 3
+atg 328 4
+atg 328 5
+atg 329 4
+atg 330 4
+atg 331 4
+atg 331 5
+atg 332 2
+atg 333 5
+atg 334 3
+atg 334 4
+atg 334 5
+atg 335 1
+atg 335 2
+atg 336 1
+atg 336 2
+atg 336 3
+atg 336 4
+atg 337 5
+atg 338 1
+atg 338 2
+atg 338 3
+atg 339 1
+atg 339 2
+atg 339 3
+atg 340 2
+atg 341 1
+atg 341 2
+atg 341 3
+atg 342 5
+atg 343 3
+atg 343 4
+atg 344 1
+atg 344 2
+atg 344 3
+atg 345 4
+atg 345 5
+atg 346 2
+atg 347 3
+atg 347 4
+atg 348 4
+atg 349 2
+atg 349 3
+atg 349 4
+atg 350 3
+atg 351 1
+atg 351 2
+atg 352 2
+atg 353 1
+atg 353 2
+atg 353 3
+atg 354 1
+atg 354 2
+atg 354 3
+atg 354 4
+atg 355 1
+atg 355 2
+atg 356 2
+atg 357 1
+atg 357 2
+atg 357 3
+atg 358 3
+atg 358 4
+atg 359 3
+atg 360 1
+atg 360 2
+atg 360 3
+atg 361 1
+atg 361 2
+atg 362 3
+atg 363 1
+atg 363 2
+atg 363 3
+atg 363 4
+atg 364 1
+atg 364 2
+atg 364 3
+atg 364 4
+atg 364 5
+atg 365 2
+atg 365 3
+atg 366 1
+atg 366 2
+atg 367 1
+atg 367 2
+atg 367 3
+atg 368 1
+atg 368 2
+atg 368 3
+atg 369 1
+atg 369 2
+atg 369 3
+atg 370 3
+atg 371 3
+atg 372 3
+atg 373 1
+atg 373 2
+atg 373 3
+atg 374 2
+atg 374 3
+atg 375 2
+atg 376 2
+atg 376 3
+atg 377 5
+atg 378 4
+atg 379 3
+atg 380 1
+atg 380 2
+atg 380 3
+atg 380 4
+atg 381 1
+atg 381 2
+atg 382 3
+atg 382 4
+atg 382 5
+atg 383 4
+atg 384 4
+atg 385 2
+atg 385 3
+atg 386 1
+atg 386 2
+atg 387 2
+atg 388 2
+atg 389 2
+atg 389 3
+atg 389 4
+atg 390 1
+atg 390 2
+atg 390 3
+atg 390 4
+atg 390 5
+atg 391 1
+atg 391 2
+atg 391 3
+atg 392 4
+atg 393 2
+atg 393 3
+atg 394 2
+atg 395 2
+atg 395 3
+atg 395 4
+atg 396 3
+atg 397 4
+atg 397 5
+atg 398 2
+atg 398 3
+atg 398 4
+atg 399 1
+atg 399 2
+atg 400 2
+atg 400 3
+atg 400 4
+atg 400 5
+atg 401 1
+atg 401 2
+atg 402 4
+atg 402 5
+atg 403 3
+atg 404 3
+atg 404 4
+atg 405 2
+atg 405 3
+atg 406 4
+atg 407 1
+atg 407 2
+atg 408 1
+atg 408 2
+atg 409 3
+atg 410 3
+atg 411 4
+atg 412 3
+atg 413 1
+atg 413 2
+atg 413 3
+atg 413 4
+atg 414 5
+atg 415 4
+atg 416 4
+atg 417 2
+atg 418 2
+atg 419 3
+atg 419 4
+atg 419 5
+atg 420 2
+atg 421 1
+atg 421 2
+atg 422 1
+atg 422 2
+atg 423 1
+atg 423 2
+atg 423 3
+atg 424 3
+atg 424 4
+atg 425 3
+atg 425 4
+atg 426 1
+atg 426 2
+atg 426 3
+atg 427 3
+atg 427 4
+atg 428 2
+atg 429 3
+atg 430 4
+atg 431 2
+atg 431 3
+atg 431 4
+atg 432 1
+atg 432 2
+atg 432 3
+atg 432 4
+atg 432 5
+atg 433 2
+atg 434 2
+atg 435 1
+atg 435 2
+atg 435 3
+atg 435 4
+atg 435 5
+atg 436 2
+atg 436 3
+atg 437 5
+atg 438 5
+atg 439 1
+atg 439 2
+atg 439 3
+atg 440 5
+atg 441 4
+atg 442 1
+atg 442 2
+atg 443 2
+atg 443 3
+atg 443 4
+atg 443 5
+atg 444 2
+atg 444 3
+atg 445 1
+atg 445 2
+atg 445 3
+atg 446 2
+atg 447 1
+atg 447 2
+atg 448 2
+atg 448 3
+atg 448 4
+atg 448 5
+atg 449 2
+atg 450 5
+atg 451 3
+atg 452 5
+atg 453 3
+atg 454 2
+atg 454 3
+atg 454 4
+atg 454 5
+atg 455 4
+atg 456 1
+atg 456 2
+atg 456 3
+atg 456 4
+atg 456 5
+atg 457 3
+atg 458 1
+atg 458 2
+atg 459 4
+atg 460 4
+atg 460 5
+atg 461 2
+atg 461 3
+atg 461 4
+atg 461 5
+atg 462 2
+atg 462 3
+atg 462 4
+atg 462 5
+atg 463 1
+atg 463 2
+atg 463 3
+atg 464 5
+atg 465 3
+atg 465 4
+atg 465 5
+atg 466 2
+atg 466 3
+atg 466 4
+atg 466 5
+atg 467 2
+atg 467 3
+atg 468 1
+atg 468 2
+atg 468 3
+atg 468 4
+atg 468 5
+atg 469 3
+atg 470 2
+atg 470 3
+atg 471 2
+atg 471 3
+atg 471 4
+atg 471 5
+atg 472 2
+atg 472 3
+atg 472 4
+atg 473 2
+atg 474 5
+atg 475 3
+atg 475 4
+atg 476 2
+atg 477 1
+atg 477 2
+atg 478 1
+atg 478 2
+atg 478 3
+atg 478 4
+atg 478 5
+atg 479 2
+atg 480 1
+atg 480 2
+atg 480 3
+atg 480 4
+atg 480 5
+atg 481 2
+atg 481 3
+atg 482 2
+atg 482 3
+atg 483 3
+atg 484 3
+atg 484 4
+atg 485 3
+atg 486 1
+atg 486 2
+atg 486 3
+atg 486 4
+atg 486 5
+atg 487 1
+atg 487 2
+atg 487 3
+atg 488 2
+atg 488 3
+atg 488 4
+atg 489 3
+atg 489 4
+atg 490 2
+atg 490 3
+atg 490 4
+atg 490 5
+atg 491 2
+atg 492 3
+atg 493 4
+atg 493 5
+atg 494 1
+atg 494 2
+atg 494 3
+atg 495 3
+atg 495 4
+atg 496 2
+atg 497 2
+atg 498 1
+atg 498 2
+atg 498 3
+atg 498 4
+atg 498 5
+atg 499 1
+atg 499 2
+atg 500 1
+atg 500 2
+atg 500 3
+sm 632
+qsv 677
+am 8059 779 1 201 3
+qsv 486
+arem 9152 112 0 105 14
+qrm 152
+cn 335
+qsv 99
+qsv 454
+anm 4737 ONiQKLLhQSIGRzfhjQsgWxur 1 303 1
+qrm 358
+dce 2
+sim 14611
+sei 51
+aem 5663 51 0 318 163
+sm 5663
+cn 855
+qsv 208
+anm 9313 wHIjPjnMzLsUzlvbUXdLNYJMhFxuAzgEzFaDHwPoZBpBODDzVljyOgBfLlvWbSmSrdQR 1 120 4
+qsv 418
+sm 9018
+dce 0
+sim 4103
+qm 143
+sm 9064
+dce 0
+cn 192
+dce 0
+qrm 346
+qgav 8
+qp 145
+sm 5856
+sei 47
+aem 3087 47 0 4 371
+sim 3087
+sei 114
+aem 336 114 1 219 3
+sim 336
+qgps 8
+dfg 596 10
+qsv 96
+cn 297
+qp 74
+am 3646 818 1 313 2
+qm 34
+sim 8947
+qsv 427
+am 7178 418 1 238 5
+qm 127
+qp 46
+qm 52
+sm 16674
+am 2042 798 1 301 1
+qm 467
+qsv 9
+sm 7199
+arem 8355 139 1 429 6
+anm 15482 dmeoCcqCXSwJRYMdhjNCKVRhfCOmSQmcyNonuKsAGDdJRksmhGfKwDLJlBaob 0 684 530
+qrm 381
+qm 372
+qm 393
+sim 6879
+sm 423
+qp 120
+anm 1682 B 0 418 261
+sm 3906
+qgps 8
+qrm 132
+sm 540
+qci 581 768
+sei 106
+aem 3690 106 0 448 270
+sim 3690
+anm 7608 gRmTxxjWeYQRzkmvHLtzGNHMZAcQNIKdEtiSoLAvpFBRJzVZhwhbspqogqGEuzfOZfyGahUBazwYIxCNtnJwYKMrGyipdoAp 1 246 1
+sim 3256
+qrm 383
+qm 128
+qsv 309
+sm 5309
+sm 6931
+qrm 27
+qm 84
+sim 2124
+qm 125
+qsv 33
+qp 137
+qp 12
+qrm 343
+qsv 185
+qp 127
+sim 4884
+qm 182
+anm 3346 yKLlzcGHlGNuEdKRWr 1 112 2
+ag 9
+qm 218
+sim 3971
+qlc 786
+sim 9484
+am 8324 -679 1 462 6
+sim 3501
+arem 9833 68 1 390 5
+qm 55
+qm 470
+qci 860 687
+dce 1
+qp 46
+qm 181
+qrm 2
+qsv 388
+dce 0
+qsv 207
+qsv 357
+qm 406
+qm 76
+cn 332
+sim 3688
+qrm 187
+sm 7228
+cn 136
+anm 8506 mCOHxCFpRJbgpODCwGKWGeHwiVXdMlDjcYsvssJEURLGfZIXzxlNfTpcJLZyESXmZdUMVwn 0 208 171
+arem 8085 46 0 347 212
+qsv 105
+qrm 180
+anm 8496 cVzxcnaVWqcKqsvQfBzFpRhmrnlqBtWnzdapmELofQUqbJpBlelYbkCtyPVUZQjrBHcpObitNKHiFRCgPdBQzwuLXFPwXdVlLT 1 317 3
+cn 305
+dce 1
+qp 132
+cn 84
+qrm 807
+dce 1
+arem 12754 31 1 761 9
+cn 445
+qp 43
+sm 9172
+cn 166
+qm 406
+qp 2
+qm 238
+cn 226
+sim 1119
+qp 125
+qp 8
+qm 268
+sim 9803
+qrm 459
+am 1953 -114 0 262 28
+qrm 303
+sei 58
+aem 4939 58 1 305 6
+sim 4939
+qrm 9
+qsv 174
+qp 8
+sm 1206
+sim 5352
+sim 3306
+qci 888 851
+sm 4617
+cn 337
+cn 49
+sim 8814
+sim 12557
+qrm 121
+atg 989 9
+qrm 124
+sim 8159
+dce 0
+dce 1
+qrm 269
+qsv 210
+cn 393
+qrm 372
+qv 587 757
+sim 5674
+qsv 375
+sm 1294
+cn 327
+qsv 447
+qrm 210
+cn 64
+qm 301
+anm 5022 JRDXkKxDYx 0 447 197
+dce 1
+qm 178
+dce 2
+am 7755 -10 1 331 4
+dce 1
+am 7960 641 1 348 3
+qsv 86
+qci 744 969
+qm 248
+sim 9328
+atg 817 8
+qsv 126
+sm 6034
+qp 58
+dce 2
+qp 31
+qp 1
+qrm 144
+anm 8345 MRDXnSzIcDZaKgcHxBhaXlmHlaiUKnalmbABFlvjWOUjbGEy 0 441 349
+sm 9223
+sm 3048
+qsv 210
+sm 765
+qp 21
+sei 41
+aem 4693 41 0 298 334
+sim 4693
+qrm 60
+dce 1
+sim 8059
+qrm 483
+qsv 279
+qp 103
+qm 178
+sei 31
+aem 3658 31 0 191 187
+sim 3658
+cn 444
+sim 1690
+arem 7850 186 0 114 236
+sei 73
+aem 9083 73 1 91 5
+sm 9083
+cn 351
+sim 2162
+qsv 142
+ag 9
+sim 951
+sei 118
+aem 9667 118 1 311 2
+sm 9667
+qsv 329
+sm 734
+qm 139
+dce 0
+sm 7464
+am 8720 -980 0 88 351
+qsv 52
+qm 88
+qsv 396
+qrm 350
+qp 63
+sm 529
+qp 140
+dce 1
+cn 461
+qm 356
+qp 54
+sm 3649
+sm 5782
+cn 209
+dce 1
+cn 60
+qps
+qrm 350
+qsv 251
+qsv 108
+sm 7053
+am 539 425 1 44 5
+am 1234 780 0 342 378
+qrm 464
+cn 904
+sim 9280
+sm 4117
+sim 7956
+qp 34
+sm 4301
+cn 181
+qgav 9
+sm 16813
+qrm 257
+sei 36
+aem 5974 36 0 216 247
+sim 5974
+cn 65
+qrm 316
+cn 405
+dce 2
+qm 112
+sm 1458
+sm 3494
+qm 386
+sim 3058
+sim 2251
+dce 2
+qsv 47
+atg 973 8
+anm 361 rPoJUCConqIPwMlenTNdDXldccPvEeGazGWeIocyWjkRxfKYgYQpfjOpPYFWJtZjFaqXOJDtqMGeVTAZAYtzO 1 459 5
+sm 213
+qrm 324
+qrm 45
+qrm 277
+qsv 418
+qsv 280
+ag 8
+qm 302
+anm 4052 eugsiCyugnExXBiNMLsURySnkpLLHENoKDeiiyUotTFTisvLa 0 181 2
+sim 1254
+qm 149
+anm 4407 oogiuBgyAIFJZYkXlUt 0 448 484
+cn 158
+sim 2101
+qm 203
+qsv 94
+qm 443
+cn 103
+sm 8451
+anm 8653 VwfgTFZdWQfZFslihrYrgcJcwNThcAuKwqGlrYfKitJPCsfct 1 229 4
+sm 4609
+qsv 122
+cn 432
+cn 217
+sim 4344
+sim 613
+qsv 445
+sim 7959
+qp 137
+qm 277
+dce 1
+cn 336
+dce 1
+qsv 119
+anm 7584 vqbMSxVZeenbizfkfLeMVMRxEaUmmytyfzodJtonYmxkBGxjTso 1 139 3
+dce 1
+sm 2972
+qsv 263
+cn 358
+sim 2094
+sm 7394
+sm 8069
+sim 3147
+qsv 29
+cn 390
+qp 23
+sim 8672
+dce 2
+sim 9035
+qp 131
+sm 169
+sm 9986
+qsv 228
+cn 79
+qsv 234
+am 2786 -340 0 83 397
+qsv 610
+qgvs 8
+cn 316
+qp 100
+qrm 10
+qm 374
+qrm 135
+sim 1225
+arem 9232 50 1 288 1
+sim 8266
+qbs
+dfg 546 6
+qm 481
+dce 0
+qp 113
+dce 2
+qsv 283
+qrm 295
+anm 7577 cpTKcdCNmCoYcEVVYfOvSygnKfeopqDkeBWQALLQxYNYukXXCwqVRrNYOxJfxX 0 132 430
+sm 9008
+qp 41
+qm 329
+qrm 384
+cn 376
+qp 29
+qrm 9
+sei 168
+cn 439
+dce 0
+qp 71
+qsv 478
+sim 9179
+cn 150
+cn 437
+qrm 208
+ap 533 Q 138
+sim 9809
+qp 61
+dce 1
+qm 285
+qsv 96
+sim 2344
+qsv 162
+dce 1
+sm 9434
+qsv 405
+sm 8266
+sm 2221
+sm 4235
+sm 6254
+qrm 596
+dce 2
+qsv 137
+arem 4996 72 0 185 474
+dce 2
+cn 291
+qsv 21
+cn 407
+sm 2942
+sm 6880
+arem 10830 106 0 536 881
+arem 8489 150 1 354 6
+arem 6460 116 0 147 84
+qsv 454
+am 3091 -255 0 90 490
+qsv 918
+qrm 225
+arem 4569 140 1 161 2
+ap 518 FfNApTDEp 173
+cn 262
+qsv 66
+sm 11622
+sm 7318
+qp 139
+cn 498
+qp 35
+arem 1360 86 1 267 5
+qrm 73
+qps
+qp 139
+sm 25
+qrm 131
+qsv 453
+qp 22
+qm 149
+sim 2623
+qrm 141
+qp 142
+qp 70
+sim 4385
+anm 10393 ADSnjdesLVBZgYajGFGHqoDaHSclnoUwwcFheOTSlrHuzqdQMTxhTTIZphXwBxXOUVPLnxXJqLznXeLZszhwtOFvHAxtBuHXEv 0 596 679
+sei 135
+aem 4502 135 1 130 2
+sm 4502
+qsv 445
+sim 6276
+sim 5041
+qp 107
+qp 29
+qrm 415
+qm 274
+sm 2970
+qsv 208
+qm 366
+sim 1468
+cn 446
+sim 1731
+qm 11
+cn 194
+sim 19109
+qrm 69
+qrm 335
+dce 1
+sei 241
+arem 6635 97 0 416 412
+sim 1435
+qrm 484
+anm 2592 QYAyBimwdOnyQEZNyoxglEXKiNYxscCZZgUIx 1 376 5
+cn 9
+anm 19162 SAOZmQIpgZFtYSYXtVdSUSRVwxaUCGtXkhkwdhlvImLlUlKtpjGhYxFKAAuZdaE 0 764 513
+cn 269
+qm 395
+qrm 345
+qsv 41
+sim 5445
+sim 447
+qm 433
+sim 4431
+dce 1
+qm 222
+qp 113
+qm 245
+qrm 442
+aem 17484 192 1 849 8
+cn 118
+qbs
+qp 87
+qlc 548
+sm 6225
+qp 1
+anm 1947 HIwGTzlCYDQrrlHJODPqlctNQWjhVLceuMxtxAitWaQLPbTMrwhEenwZAwolWpqsQsPSnCG 0 27 29
+qsv 471
+ap 629 eGiCq 18
+qm 133
+qsv 362
+cn 27
+qrm 147
+sei 70
+aem 7221 70 1 115 5
+sm 7221
+sim 9839
+qgav 8
+qp 91
+qm 320
+qm 348
+arem 17168 128 0 695 590
+sm 6071
+qp 14
+qgps 10
+qsv 406
+dce 2
+qv 915 728
+qm 323
+cn 148
+am 8296 421 0 498 109
+sim 4371
+qm 388
+qsv 440
+qm 222
+qsv 435
+qrm 303
+anm 3711 pYpDZVgnZfJjsAXcMTvJYBibvMOFDunqnOUCBVmYBnsNvtoCdQIUnSwiqhnrfkuksSXiEFxevxhXYHLygEyfMbSjFytPpiNkhm 1 317 4
+ar 980 675 698
+dce 2
+qp 117
+sm 6389
+anm 11047 KxWFwQBwRwDBTCnHpKXhFGJZlBdFkWqtHXqixPgvBKDlocOuLxhkMLNQodgt 1 826 7
+am 2763 316 0 402 139
+qp 134
+qrm 449
+arem 370 20 0 476 298
+sm 9052
+sm 6730
+dce 50
+sim 9222
+cn 112
+qp 102
+cn 215
+cn 489
+qp 10
+sim 313
+cn 138
+qp 136
+sei 98
+aem 2226 98 1 128 3
+sm 2226
+qp 38
+sm 1554
+dce 0
+cn 315
+dce 1
+anm 2541 spAGIVofDLoefjyH 0 30 293
+qsv 164
+am 12252 334 0 887 816
+am 3530 677 0 39 53
+qrm 16
+qsv 568
+sm 6721
+cn 467
+qm 192
+cn 346
+arem 8910 102 0 231 454
+cn 237
+sm 1706
+cn 161
+sim 250
+qrm 143
+qp 120
+qrm 251
+sim 5254
+sim 785
+dfg 540 8
+sim 5952
+ap 658 ECldXNAl 155
+qbs
+qsv 601
+sei 137
+aem 6504 137 1 255 6
+sm 6504
+am 767 -594 0 73 401
+cn 353
+sim 288
+atg 988 7
+qsv 421
+arem 7554 152 1 465 1
+qm 322
+sim 4699
+qm 306
+qsv 762
+sm 2518
+sm 9269
+qsv 6
+sim 3396
+am 8209 -761 1 370 2
+cn 561
+sei 23
+aem 6948 23 0 80 214
+sm 6948
+qm 382
+cn 341
+qrm 444
+sm 5038
+qm 376
+sm 8207
+qci 701 604
+qsv 169
+qrm 85
+cn 462
+sim 8782
+arem 5490 78 1 471 4
+sm 8924
+sei 4
+aem 7593 4 0 60 291
+sm 7593
+qp 114
+dce 2
+qp 63
+am 9696 526 0 257 446
+cn 358
+sei 53
+aem 9058 53 1 22 3
+sim 9058
+qrm 255
+dce 1
+qp 27
+dce 1
+qp 56
+qsv 288
+qp 127
+dce 0
+qm 160
+anm 18128 XXVQvdAcTRzzJOqwkPOUSDUD 1 671 8
+arem 1358 32 0 356 81
+sm 2452
+sm 5372
+sm 6940
+qsv 58
+dce 2
+qp 129
+qrm 114
+qm 124
+qm 13
+qm 34
+qsv 297
+cn 317
+dce 2
+qps
+sm 3168
+sim 5538
+qsv 274
+sim 5250
+cn 18
+sei 117
+aem 3061 117 1 64 2
+sm 3061
+qp 132
+sm 4131
+sim 2813
+dce 2
+dce 2
+qm 78
+qrm 23
+sim 1222
+qrm 156
+cn 489
+qp 133
+sim 8875
+qp 202
+cn 344
+qsv 307
+qm 40
+sm 6490
+qp 92
+qgav 8
+sm 4501
+qsv 470
+sei 74
+aem 3324 74 0 367 227
+sm 3324
+qm 34
+qm 317
+qm 283
+dce 2
+arem 957 197 1 93 4
+qp 17
+anm 11266 DUQjiYzXPakaxZEtCXvEiUIgGxavrpQTxOtECGKiESFEVpbqreiVh 0 560 611
+qp 33
+dce 0
+sim 9706
+qrm 9
+sei 61
+aem 1579 61 0 322 255
+sim 1579
+sm 5368
+dce 2
+qrm 233
+qm 296
+qsv 485
+qm 113
+sim 8931
+qrm 285
+qm 89
+cn 316
+qsv 405
+qsv 142
+sm 499
+qsv 32
+qgvs 8
+sim 7549
+qv 737 569
+sm 3333
+cn 459
+qrm 496
+sim 6296
+qsv 192
+qrm 406
+qsv 207
+am 2757 932 0 45 298
+sim 5203
+sm 599
+arem 10877 34 1 742 6
+qm 60
+dce 2
+qsv 194
+ap 553 NvTnuK 195
+qsv 120
+qp 137
+sei 3
+aem 4143 3 0 138 309
+sm 4143
+qrm 394
+am 9358 910 1 395 1
+qm 228
+qsv 383
+sim 979
+anm 3566 YXmRfGriHOEwdkSxCAictjBcqEPkCNPfgdDcudpPdgYaDNABdiNpQcuzfTHdBIaJiJnkZsxAtORhakrtuthtbSMwBKRChCqoN 0 467 218
+qsv 393
+sim 5880
+qrm 361
+sm 9363
+qrm 44
+ap 919 gohBAOCVJL 68
+qm 322
+sim 7543
+sim 625
+ap 647 a 121
+sm 4525
+qsv 164
+sim 1009
+sim 2635
+sm 8207
+anm 4007 nwcWqtrVfpqZSztYovEALWsqDZMCuVfKHUDSSJTbpPMfVoSLoXpRqvqZQxUuoWOIkDElnhaHaZRhaLZlbKkRnMecmCgUFO 1 209 3
+qm 712
+cn 330
+sm 834
+sm 9288
+sim 7245
+dce 0
+cn 230
+dce 2
+sim 5027
+qp 103
+am 3047 533 0 146 432
+cn 206
+qgav 6
+qlc 752
+dce 2
+cn 117
+sim 2062
+am 7923 -647 0 262 312
+cn 449
+sim 9476
+qsv 732
+am 8752 782 0 383 7
+sim 4274
+sei 83
+aem 9470 83 1 239 3
+sim 9470
+qrm 383
+am 2789 316 1 142 5
+sim 9504
+qm 125
+qm 261
+sm 3649
+qp 38
+dce 1
+sm 7916
+cn 373
+sim 7431
+sm 8088
+qp 17
+sim 6101
+sm 2116
+qm 15
+sei 66
+aem 2061 66 0 218 64
+sim 2061
+cn 486
+dce 0
+dce 1
+anm 12900 rVOmfJUwzRyZyjgKDPjDwByGJMFOhPwCfvqROGT 0 977 987
+qrm 297
+sm 971
+cn 11
+sm 4161
+qp 32
+qm 156
+sei 14
+aem 6441 14 1 251 1
+sim 6441
+qp 2
+dce 0
+dce 2
+sm 125
+qsv 385
+cn 211
+qm 482
+am 5937 -21 1 282 6
+dce 0
+qm 1
+anm 960 gFKRMyXSzOWIaFTFOoWonGCmQzegXVPpfUYFygflcYi 1 436 3
+qsv 267
+dce 0
+cn 479
+qrm 210
+sm 5955
+qbs
+qp 77
+qci 631 942
+qrm 603
+qsv 200
+cn 135
+cn 197
+anm 2253 tpgFUdxuJKRugdLFAlvFnqvYopuYysGXtXuxghbpOwSCfhVpvrEzKAmcOFoyImOjXYKeUwNOXEhYqqOYMKTHWdwpfQyPPUNUT 1 305 5
+dce 2
+qm 365
+qm 449
+sei 134
+aem 1005 134 0 83 202
+sim 1005
+dce 2
+qrm 482
+qp 300
+qm 286
+cn 495
+qrm 134
+dce 0
+sim 3265
+sm 2193
+arem 8292 170 1 50 2
+qp 80
+aem 15246 226 1 630 6
+qm 950
+qrm 41
+sm 5667
+qm 157
+cn 132
+arem 5533 122 1 214 2
+qsv 286
+qsv 107
+qsv 176
+qm 468
+sim 7441
+cn 391
+sim 2238
+qci 713 775
+qgps 6
+ap 972 kUcFkz 96
+sm 1933
+dce 0
+qp 123
+dce 1
+qrm 236
+qps
+qm 649
+cn 292
+dce 1
+qsv 436
+cn 287
+dce 1
+dce 2
+qrm 158
+sim 1736
+dce 1
+qm 427
+qp 38
+qp 100
+cn 303
+am 2584 -286 0 177 158
+cn 6
+qrm 127
+qp 23
+qp 186
+cn 452
+sm 3829
+qsv 470
+am 5757 222 1 65 1
+dce 1
+cn 110
+sim 5167
+qp 50
+dce 1
+dce 0
+qsv 325
+sim 4933
+qsv 456
+qrm 195
+qp 95
+sm 4851
+qrm 343
+cn 335
+sm 2267
+sim 2581
+am 6868 -96 0 100 100
+cn 41
+qrm 362
+aem 10426 295 1 878 6
+cn 132
+aem 11147 153 1 511 9
+dce 0
+am 14282 -980 1 869 7
+sim 377
+qm 419
+cn 286
+qsv 410
+qp 95
+cn 483
+qm 364
+qrm 282
+anm 7216 pNzacvUKkFcFNIMytmyAWRcwYDYj 0 232 309
+qrm 27
+dce 0
+qsv 4
+dce 0
+qsv 498
+qsv 440
+qsv 62
+sim 601
+qp 70
+sm 1428
+sim 5798
+qp 97
+qp 53
+cn 196
+qrm 138
+qsv 439
+qp 115
+sm 3937
+sim 3072
+dce 1
+qp 133
+qrm 388
+qm 198
+sei 88
+aem 5446 88 1 308 3
+sim 5446
+sm 4042
+sm 5170
+qrm 396
+cn 297
+qp 35
+cn 89
+qsv 369
+sim 6024
+sim 137
+qm 456
+am 3243 -295 0 443 455
+dce 0
+am 8908 395 0 262 282
+sm 7495
+am 2283 989 1 438 3
+qrm 411
+qp 136
+qsv 78
+am 6354 709 1 381 2
+qrm 430
+qrm 340
+qv 661 932
+dce 0
+arem 10975 110 0 711 651
+qp 112
+cn 318
+qgps 8
+qsv 162
+sm 3030
+qsv 494
+qsv 881
+sim 4990
+cn 75
+aem 11440 251 0 916 946
+qrm 332
+qp 95
+sei 48
+aem 2079 48 0 136 117
+sm 2079
+cn 356
+am 2022 -863 0 222 351
+cn 298
+qp 190
+qm 407
+qp 29
+qm 387
+qm 447
+qrm 415
+qsv 268
+sm 990
+qrm 373
+qci 904 655
+qrm 40
+sim 1883
+qm 270
+ag 9
+qrm 290
+dce 1
+dce 2
+qgav 10
+cn 394
+sim 5626
+qgav 9
+am 3715 -615 0 93 462
+qp 146
+sim 9385
+dfg 726 8
+dce 0
+dce 2
+anm 687 xWENALFxoCLlCyyUFLzz 1 279 3
+dce 1
+anm 2224 TfMcuCgEkEdCYqPDgjUIeyfrefFuFbIQwCkDMfPVcUdFHgfBfEXPAyedSOkUtpBRnrqXIyeVFsPtGtSVyl 1 499 1
+qm 186
+sim 3250
+sm 3760
+cn 331
+qm 62
+sm 4381
+qsv 253
+anm 6811 qCLkFCwZxikLGtGamcDuYQGFBCmBgfAVTnnuRcdcATDffuMWsPmZBvNSVUSV 1 14 4
+qsv 395
+qp 78
+sim 3879
+qrm 417
+sim 9729
+qrm 400
+qm 87
+qm 370
+sm 6931
+qp 89
+qrm 290
+qrm 158
+sim 8013
+dce 1
+sim 548
+qsv 76
+qp 36
+dce 1
+arem 1280 63 1 134 5
+sim 6800
+sm 9740
+sim 9228
+qgvs 9
+cn 78
+sim 9041
+qrm 198
+qrm 120
+qsv 145
+arem 1883 70 0 305 458
+dce 2
+arem 3963 136 0 8 389
+cn 305
+arem 4676 86 1 54 3
+cn 212
+qsv 190
+sim 2275
+qm 48
+qm 134
+dce 2
+sm 9410
+dce 0
+qm 213
+qrm 88
+qrm 190
+sim 9872
+qsv 941
+qp 146
+sm 1890
+am 7807 -786 1 474 5
+cn 428
+arem 8610 184 0 373 158
+dce 0
+sei 141
+aem 2265 141 1 210 4
+sm 2265
+qp 83
+anm 4167 WyYengmKXTNxyClvDHUQnJKIpOFqjbzdJHWoXWtzhXv 1 119 1
+arem 7344 113 1 416 5
+qsv 134
+qp 120
+qrm 13
+cn 262
+arem 10296 178 0 870 867
+sim 3182
+dce 2
+cn 144
+qrm 358
+qgvs 7
+sim 5306
+qsv 261
+qp 103
+dce 1
+cn 266
+qsv 224
+qm 6
+qp 136
+cn 456
+qm 71
+dce 0
+qrm 459
+cn 142
+qp 96
+qm 394
+am 3522 319 1 362 1
+qrm 37
+qp 77
+ar 631 705 987
+qsv 29
+qp 37
+qp 45
+cn 43
+sm 5281
+qm 241
+qm 325
+sim 1302
+qm 249
+cn 156
+cn 279
+qm 288
+dce 2
+dce 0
+sim 9416
+sei 143
+aem 9397 143 0 71 164
+sim 9397
+dce 2
+qm 135
+sim 1400
+qp 146
+qm 125
+dce 1
+qsv 200
+qp 127
+qlc 797
+sim 398
+sim 6079
+cn 386
+arem 6618 15 1 407 1
+sm 66
+ag 9
+qm 225
+cn 246
+qrm 362
+qm 344
+sim 8573
+cn 216
+dce 1
+qp 32
+qsv 276
+sm 1989
+qsv 52
+sim 9830
+dce 1
+ar 663 803 869
+sei 574
+aem 3502 574 1 427 5
+sm 3502
+sm 8214
+arem 6088 108 0 371 344
+dce 2
+dce 2
+cn 177
+sm 925
+cn 455
+sim 7843
+sm 6698
+sim 4444
+sim 3324
+cn 427
+cn 194
+sm 2161
+sm 3952
+sm 3810
+dce 0
+sm 6787
+dce 1
+cn 491
+arem 10184 39 0 999 959
+qm 424
+cn 272
+qsv 130
+sim 5762
+sm 1798
+qrm 137
+qp 89
+qsv 77
+qrm 302
+qm 141
+qsv 410
+cn 196
+ap 760 ZgjvzBdl 125
+qsv 212
+sim 3843
+sm 432
+atg 651 7
+qsv 151
+qm 414
+cn 40
+sim 6722
+qm 303
+dce 1
+qp 37
+ar 643 724 79
+qp 121
+cn 145
+sim 2846
+arem 15622 47 0 812 835
+dfg 870 6
+qm 126
+sm 9941
+sei 392
+aem 6266 392 1 498 6
+sm 6266
+qrm 313
+am 19255 126 0 573 847
+sm 8633
+cn 320
+anm 4723 cATdxNIUJnyMypQBqCm 1 275 2
+anm 3040 JsrCdLSMjFQoCL 0 354 140
+sei 529
+aem 4596 529 0 275 358
+sm 4596
+dce 50
+dce 0
+qrm 404
+qp 29
+qsv 272
+dce 1
+qp 74
+dce 1
+qp 104
+qsv 497
+cn 296
+cn 313
+sm 8423
+sm 9691
+qp 86
+dce 1
+sm 9980
+cn 282
+am 7152 -501 1 453 4
+qp 40
+qm 65
+sm 2063
+qp 59
+arem 3477 14 0 175 71
+qrm 363
+qlc 574
+am 4970 81 1 386 6
+cn 303
+sm 2714
+cn 424
+sim 5025
+qm 135
+sim 8961
+qrm 491
+qsv 396
+qsv 375
+qsv 362
+qrm 184
+cn 138
+dce 0
+qp 139
+qsv 43
+sim 8680
+qp 10
+qp 61
+qrm 182
+dce 1
+arem 5499 97 1 112 2
+sm 341
+qrm 38
+qsv 323
+qrm 305
+qp 150
+sm 3874
+qp 86
+qsv 195
+qm 46
+sm 8864
+qgps 10
+qlc 506
+sim 3089
+sim 6675
+qsv 154
+dce 2
+qm 303
+sim 6694
+qrm 43
+cn 411
+qbs
+qp 41
+cn 146
+qp 32
+qm 636
+qsv 717
+dce 1
+anm 9878 lwzJSkCUCnMwZzBFAoJSRBrrAROVWejMvOqelbekgEZOZkRBRRXXAHlFiGpTTWNOzOFZFXiFa 0 21 20
+qsv 154
+sm 8156
+atg 841 9
+sm 8645
+qsv 72
+sim 2357
+cn 48
+qp 69
+sm 6196
+cn 404
+ap 804 FzbPFbflU 75
+sm 1917
+qrm 138
+qm 402
+qm 364
+cn 326
+dce 0
+qrm 106
+atg 757 10
+qp 129
+cn 97
+qm 426
+dce 2
+dce 1
+qm 137
+qm 316
+qp 3
+qsv 291
+qp 129
+qbs
+qrm 235
+sim 7523
+qsv 385
+sm 6896
+qsv 950
+cn 311
+qsv 439
+sim 1348
+qm 479
+am 6268 -253 1 447 2
+dce 0
+qp 31
+qrm 414
+qm 439
+qm 192
+sei 53
+aem 3179 53 0 52 70
+sm 3179
+qsv 460
+anm 13708 KiXymPiBxccjQwvai 0 990 698
+qrm 294
+cn 57
+dce 2
+qm 332
+sm 712
+sim 8618
+sm 2453
+qsv 473
+dce 2
+qm 465
+qrm 327
+qm 385
+dce 0
+dce 1
+qrm 228
+cn 313
+dce 1
+sm 975
+sm 8444
+cn 128
+qsv 179
+qp 71
+qp 57
+sm 1350
+qsv 418
+qm 122
+qp 137
+arem 8799 187 0 214 175
+qm 379
+qm 138
+sei 402
+aem 1300 402 1 480 3
+sm 1300
+dce 1
+dce 2
+dce 2
+qm 216
+sm 8134
+sm 8152
+arem 6095 103 0 190 178
+qm 397
+qsv 22
+qp 244
+qrm 364
+qrm 390
+sei 93
+aem 6497 93 1 125 1
+sm 6497
+qp 43
+qrm 367
+cn 228
+qci 564 906
+sm 1970
+qsv 467
+sim 6163
+cn 145
+sei 18
+aem 8474 18 1 331 2
+sm 8474
+qm 51
+dce 0
+qm 433
+dce 2
+dce 0
+dce 0
+cn 209
+qrm 54
+am 18578 -380 1 645 7
+qsv 236
+sei 151
+aem 8545 151 0 202 210
+sim 8545
+qp 9
+sm 527
+sim 6443
+qsv 98
+qrm 356
+qci 714 594
+sim 6583
+qp 16
+sm 11977
+dce 0
+qgvs 10
+qp 42
+qsv 322
+anm 1570 zvvsiUvHoQbxzvCaVlxxpruFVNFwmRmogRJznBqsgJKslerrWxmZisEChYLDkTEqcgHLTISCAUt 1 422 4
+dce 1
+qsv 309
+qrm 284
+anm 7699 VLdFfUWpgZpdFJbwtyHcrNWkzNYdWgHgXHDNxSNPanswZgvqHtsywFkAAXGOsjbF 1 211 2
+sim 1579
+sim 8066
+qsv 44
+qp 60
+dce 1
+sm 10542
+sm 6011
+qrm 456
+sm 10559
+sm 7583
+qm 484
+dce 0
+qp 52
+qp 90
+sm 7112
+sm 628
+sim 9866
+qm 239
+am 2808 -148 1 343 3
+arem 8854 156 0 286 281
+qrm 195
+qp 81
+qp 144
+ar 996 667 500
+cn 147
+qp 29
+qm 97
+dfg 623 6
+qsv 240
+qm 292
+dce 1
+sim 9064
+sim 5992
+qrm 80
+qm 78
+cn 266
+qp 146
+sim 1651
+qp 48
+dce 1
+cn 64
+sm 8302
+sei 453
+aem 880 453 1 234 5
+sm 880
+cn 99
+qrm 190
+qm 354
+am 7971 185 1 446 3
+dce 0
+qp 63
+sm 4866
+qsv 122
+sm 4464
+qrm 181
+qrm 192
+sm 7666
+qm 133
+sm 2983
+qsv 4
+sei 337
+aem 8139 337 0 432 372
+sim 8139
+qgav 6
+dfg 904 7
+qp 29
+sim 2006
+dce 2
+sei 253
+sm 4901
+sm 6964
+cn 83
+sm 817
+dce 2
+sm 7783
+qgav 7
+qrm 18
+sim 9633
+dce 0
+am 6194 -813 1 27 5
+qrm 468
+dce 2
+qsv 91
+sim 9452
+arem 7849 104 0 452 246
+am 827 -786 1 283 1
+qp 90
+qm 393
+sm 1528
+sm 2552
+qsv 256
+sim 8393
+atg 811 7
+arem 5107 7 1 110 5
+qm 307
+qsv 283
+arem 6929 166 1 270 6
+qrm 259
+dce 2
+sm 8168
+cn 452
+sim 4557
+qp 39
+qrm 197
+qp 41
+aem 11713 151 0 935 580
+anm 4868 RkTDaPjMQsoBwlUQtlTUcazrMFfdKFFQfHFObdhHi 1 424 1
+anm 9275 oMaAWkdUAdiYwWDJEnnXpJrqXZbIBghnQHGuaoHiftaOfDZwynYherinJOhmxDZVocQIjgHZXUCZVgpmxEuYxL 1 128 6
+dce 2
+cn 332
+sei 379
+aem 3254 379 0 188 347
+sim 3254
+qp 107
+qci 526 914
+sei 40
+aem 4463 40 0 11 217
+sm 4463
+qm 294
+am 1013 -282 1 232 3
+sm 5400
+sm 8986
+sm 1631
+sim 971
+qgav 8
+cn 70
+sm 382
+dce 1
+qsv 79
+qsv 135
+qsv 484
+cn 108
+qgvs 8
+atg 748 9
+qp 15
+sm 9645
+anm 7360 hIcAOXfLJPFpWAIiOxjZvXtRsezYaJCiTWTWNkemZTXVtxxxVhKhjgiDmGaOiOqyzkhkNRoNkIyZdRVfSlDZP 0 301 151
+qsv 331
+qrm 357
+qp 17
+sim 5179
+sim 1208
+qps
+qm 205
+dce 0
+sim 2742
+dce 2
+sm 1864
+qrm 364
+anm 16652 gTaZdbCZKKSNVBcwbILBineUkReS 0 980 711
+qm 327
+sei 206
+qsv 325
+qrm 61
+qrm 187
+arem 603 55 1 167 2
+cn 250
+qm 443
+qgvs 7
+qm 469
+cn 343
+qm 316
+qrm 358
+qp 19
+sm 9219
+sei 404
+aem 4865 404 0 50 286
+sim 4865
+sm 4995
+qm 60
+sm 6697
+sm 5402
+qp 8
+anm 9937 XbRjTfZUcCPMGMQKmzpZunQcdgMMpMmIXoyiRGkTAVg 0 91 194
+dce 1
+qsv 297
+qm 184
+qrm 213
+cn 383
+cn 399
+qsv 234
+sm 9467
+qp 68
+qsv 775
+qsv 387
+qrm 483
+qrm 232
+qp 76
+qsv 363
+qrm 414
+dce 1
+qp 138
+qm 178
+arem 1482 198 0 389 35
+qm 193
+qm 184
+dce 1
+cn 262
+sei 157
+aem 259 157 0 135 476
+sm 259
+sei 191
+aem 1016 191 0 430 315
+sm 1016
+qgav 9
+sei 26
+aem 1591 26 1 279 3
+sim 1591
+qrm 467
+qsv 8
+sim 7448
+cn 405
+sm 4689
+qp 36
+cn 301
+sm 2246
+qp 90
+arem 4900 110 1 223 5
+qp 111
+cn 230
+qrm 225
+sim 3374
+sim 7612
+qrm 156
+sim 508
+qrm 297
+anm 17922 pKGBcijNutkeNGPModbImomqPOAWNmBxjBwalPvbqfpaAOzBxi 0 603 959
+qp 95
+qrm 134
+cn 150
+sei 590
+aem 7021 590 0 474 482
+sim 7021
+cn 7
+qsv 193
+anm 9638 MnJVSQjOvvQsBWqjdRLytvJyuCPtDyCzWbmqheeWrcUdsNBWdpBtWKfgQtWUQMUBAUGRxCDtXoDs 0 242 8
+cn 220
+anm 17748 VeSJNnrasSrzribAZOwBCVxDfTEvIWcCeRjgFEeyDTANDNXmblTEtiaTSvCRppuzAcHOgjbMZQmPsEVqpcBwxYgpHUELYgrdkqC 0 832 952
+sm 2379
+anm 8618 chJJeoylFyqdLvJDHtxuCMKeaiCYtqWNvaOWuV 0 243 56
+dce 0
+qrm 140
+sim 50
+sm 2985
+qm 39
+qrm 180
+qm 122
+dce 0
+cn 175
+sim 13115
+anm 6140 xtGExMWsPNjjOahbkILkFQuUheBXZsGAngYdkKPrFhBI 1 27 1
+qsv 230
+arem 14691 191 0 653 944
+sim 2393
+qp 125
+qp 69
+dce 1
+sm 8000
+am 8451 592 0 70 384
+sm 236
+cn 24
+sei 157
+dce 2
+dce 2
+sim 7919
+sim 5239
+dce 0
+sm 2109
+dce 2
+qm 399
+sm 5325
+sm 2871
+qsv 287
+dce 0
+sim 4969
+dce 0
+qp 130
+sm 8925
+sm 5411
+dce 2
+cn 201
+qrm 323
+qp 89
+anm 9100 ONMfNOhYCPhUOGiaTDuMYqUdfCyQIxHjPkJQAEQ 0 299 40
+qsv 156
+sim 6973
+sim 5659
+qrm 38
+dce 2
+qm 427
+qm 90
+qsv 239
+sm 4588
+dce 1
+qrm 149
+qci 705 999
+qrm 370
+qm 106
+qp 37
+qsv 315
+qm 474
+qp 118
+arem 7709 182 1 380 5
+qsv 258
+sm 4409
+qsv 47
+qm 282
+qm 445
+qp 119
+aem 13208 166 0 578 754
+cn 424
+qm 181
+qsv 82
+qrm 323
+dfg 653 7
+cn 158
+sm 3986
+am 6134 -503 0 407 14
+qm 128
+sim 7504
+cn 481
+sm 2064
+sm 8965
+sim 1956
+qrm 356
+am 5803 336 1 214 2
+qp 117
+qgvs 6
+sei 506
+aem 7589 506 1 246 2
+sim 7589
+sim 3160
+qp 143
+am 2523 189 0 481 437
+cn 70
+qsv 138
+dce 0
+sim 9605
+qrm 440
+qsv 218
+sim 4799
+dce 0
+sim 2560
+qm 50
+qm 290
+sm 9409
+sim 8824
+am 4942 557 0 425 106
+anm 4785 rt 0 470 177
+qrm 187
+qp 116
+qsv 118
+qm 323
+arem 2245 174 0 97 450
+arem 1715 184 1 300 2
+qm 772
+qgav 10
+dce 0
+qsv 478
+anm 3790 OWVKxUwgoubVybnq 1 471 3
+cn 253
+qrm 186
+sim 299
+qsv 18
+qv 748 934
+qp 71
+qp 54
+am 239 10 0 284 337
+qp 134
+sim 8814
+sei 506
+aem 724 506 1 371 4
+sim 724
+dce 0
+qrm 89
+dce 2
+qgvs 6
+cn 122
+sm 2224
+qm 402
+qm 380
+qm 208
+cn 128
+sm 3867
+qrm 466
+qgav 9
+ap 988 aCxPk 190
+qm 229
+am 3246 -107 1 158 5
+cn 387
+dce 2
+sm 4619
+qlc 846
+sim 9490
+sim 9858
+qm 485
+sm 3111
+dce 1
+qm 156
+sim 6609
+cn 426
+qp 144
+sm 3321
+sm 7492
+qps
+qrm 419
+qm 487
+cn 329
+am 5177 941 1 343 1
+qm 379
+qsv 155
+qp 11
+sim 9875
+qm 230
+sei 224
+aem 3009 224 0 308 331
+sm 3009
+sim 5553
+qsv 125
+am 6846 791 1 356 3
+sm 3881
+sei 541
+aem 7150 541 0 337 94
+sm 7150
+qm 404
+qm 154
+cn 23
+cn 216
+qrm 356
+qsv 487
+qrm 77
+qm 31
+sei 69
+aem 8790 69 0 92 398
+sim 8790
+cn 265
+cn 64
+sm 4170
+qsv 435
+dce 2
+sm 7570
+ar 691 699 883
+qp 120
+dce 2
+sm 8689
+sm 6546
+sm 7200
+cn 273
+qsv 414
+qrm 445
+qm 330
+qp 13
+qgav 8
+qsv 397
+arem 3306 54 0 177 108
+qrm 90
+anm 5020 ZIdSiWMWNURwPJVQnFPosoSkyTBpHOwLzwHKDQLRmyuqfFLJrk 1 214 2
+sim 9342
+cn 178
+qsv 333
+sm 7092
+sim 2015
+qp 22
+qp 76
+sm 4492
+sim 7084
+arem 1207 143 1 274 3
+dce 1
+dce 2
+qm 346
+qrm 134
+dce 2
+ar 767 831 972
+qsv 30
+qp 84
+qsv 38
+sm 4498
+dce 0
+sim 1399
+qsv 491
+cn 165
+qsv 332
+sm 5331
+dce 2
+sm 5662
+qm 23
+sim 3745
+qsv 435
+sim 3368
+sm 9884
+dce 0
+dce 2
+dce 2
+qp 150
+sim 2992
+qrm 491
+qsv 433
+sei 368
+aem 8317 368 1 438 1
+sim 8317
+arem 335 100 1 461 3
+qrm 449
+qp 9
+sim 241
+qm 268
+sm 6327
+sim 7149
+dce 1
+qsv 144
+anm 7941 AetvMtxjdkWV 0 481 244
+qp 53
+cn 233
+qp 111
+sim 3935
+sim 8947
+sm 921
+anm 7710 SXLglTXQJrPiTiPEHUYhSXEgMYEBYcZTCLkUBOWLxCQQAd 0 233 496
+sm 8484
+qsv 258
+qrm 117
+qp 145
+qrm 95
+qsv 43
+dce 2
+cn 417
+cn 377
+qp 116
+sim 8519
+sm 1831
+qrm 456
+sim 3141
+qm 339
+sim 5738
+sim 4236
+anm 1233 nQrYrKlU 1 484 2
+sim 6916
+qrm 96
+qp 44
+dce 0
+sim 6728
+qm 408
+dce 0
+dce 0
+sm 1177
+sei 233
+aem 5580 233 0 369 436
+sm 5580
+qsv 4
+sim 7723
+atg 666 6
+qsv 37
+dce 0
+sm 2240
+sei 204
+aem 3310 204 1 461 5
+sim 3310
+sm 9796
+dce 0
+qsv 282
+qp 141
+sim 4401
+qrm 352
+sm 834
+qsv 162
+sim 1443
+qm 232
+cn 255
+qm 113
+dce 2
+cn 214
+qm 313
+dce 1
+qm 453
+qsv 499
+qm 116
+qrm 51
+anm 1334 ojgBxmWDSCEOnezTGcWfohffgEpPZgEOHTCucHVrhHRWxAoACpJqJfQq 0 123 269
+cn 295
+dce 1
+dce 2
+qsv 373
+arem 5503 185 0 303 257
+qp 91
+dce 1
+qm 92
+anm 7624 rIOYlZhgoHvVXSIbWDhKbCiQLRgeHwFvlpLFefHLJSZlITKuYfPjseEzSsBiOVUwspuvGNaKFWXdGagZFlxUrHRIirxJkGAriUa 0 115 145
+sm 2873
+sm 15153
+cn 266
+sim 9870
+sim 3030
+cn 242
+sm 15895
+dce 1
+qsv 759
+dce 1
+ap 766 OPXSo 100
+sim 9670
+sim 215
+qm 240
+sm 7903
+sm 4732
+qp 29
+sm 1871
+sim 8051
+qm 166
+qp 143
+qm 261
+cn 97
+cn 47
+dce 2
+sei 580
+aem 4828 580 0 208 12
+sim 4828
+sm 17164
+qp 127
+cn 394
+dce 2
+qsv 350
+qsv 299
+cn 256
+dce 2
+dce 0
+am 9373 -111 0 172 292
+sim 3426
+qrm 258
+qm 499
+atg 953 9
+qgvs 9
+anm 3604 BHDMoCSSoKXsGvFlEXMTSUEItREpfswmVMWqRBMslmrSSHVGlNYICUEiLXkeAmRRuFLLxKzVJJRLuPJzIaefQXxJBkwsxUd 1 287 4
+sim 7606
+qrm 419
+qrm 481
+arem 6899 188 1 158 4
+sm 1410
+qv 701 711
+qm 325
+qsv 154
+am 17916 -483 0 993 902
+atg 725 6
+dce 0
+qsv 83
+sim 63
+qp 145
+sm 9167
+dce 1
+sim 2147
+qm 218
+sim 4870
+qsv 486
+sm 3123
+qrm 180
+sei 186
+aem 6814 186 1 173 3
+sim 6814
+sm 5089
+anm 6714 uxcjsPxDEPwtjysfxeyiswTSOWjKYmkvmeJjlQrySjUCheWMJPNAksZfILsefFqeFhRIuaMttfCZmMrGj 1 51 2
+qsv 249
+qsv 421
+qsv 142
+sim 9648
+ar 828 597 449
+qgvs 10
+sim 6645
+ap 643 TYbAdDz 19
+qp 58
+qrm 380
+qrm 222
+qrm 320
+qsv 154
+cn 708
+sim 9612
+sim 4187
+dce 2
+dce 1
+qrm 289
+qm 172
+qrm 58
+qrm 272
+qsv 417
+qsv 120
+sim 4590
+qp 78
+sim 6785
+am 8794 634 0 425 36
+sei 379
+aem 1097 379 1 255 2
+sm 1097
+qrm 458
+qm 168
+sim 2956
+am 3392 843 0 259 206
+sm 4519
+qm 59
+qm 202
+qrm 56
+cn 302
+cn 87
+cn 14
+sm 4156
+qv 966 891
+cn 316
+qp 6
+qrm 180
+qp 23
+arem 7439 89 0 10 250
+qsv 470
+qsv 48
+qm 67
+qp 68
+qrm 379
+cn 310
+sm 711
+arem 4422 30 0 145 485
+qp 78
+qm 366
+sim 9991
+qrm 108
+dce 1
+qm 250
+qm 458
+sm 7589
+qp 143
+qrm 164
+qrm 373
+qp 38
+sim 9158
+qm 420
+qm 282
+qm 250
+qp 33
+dce 0
+qm 52
+anm 8882 ajCAYcSGMiQceivccXL 1 206 3
+sei 231
+qm 357
+qsv 331
+sim 3367
+sm 355
+cn 183
+qsv 313
+cn 108
+dce 2
+qrm 168
+qm 91
+qrm 332
+qrm 382
+qp 57
+qp 138
+anm 3747 crpIdkNmorgmEEHzeqZpoClXXzPLsunMFPGbXnYuZfRIweBgElWwPNLDPFzBevrsfpQlaUOSfzQT 0 64 292
+qsv 17
+qp 125
+qrm 256
+am 11852 -207 0 916 856
+cn 287
+qsv 90
+qp 2
+sim 3880
+qp 10
+sim 9626
+qv 743 684
+sm 2156
+qp 130
+dce 0
+qp 58
+qrm 465
+qrm 491
+dce 0
+qsv 306
+sm 3901
+sei 580
+aem 3853 580 0 243 379
+sim 3853
+qp 14
+qp 53
+cn 387
+qrm 136
+qm 52
+qgav 8
+am 4550 -147 1 210 2
+sim 6906
+anm 4320 FyOkAlOznSnVoHzYSJruCUTucuAMzMhGAmRQnuDAiDheEZEefJeSNPfGjKrPxYpBYdUmgbHWOqo 1 243 6
+cn 401
+anm 4160 ISFxYVrVNcBKQP 1 78 6
+sim 842
+sim 10
+sm 6885
+qrm 108
+cn 249
+qp 102
+qrm 315
+dce 0
+arem 7300 129 0 246 245
+anm 5087 okyhHqDuiOxJqSwCeOzZrbLtGCjqrvXEmlIPgFiCUsalTBKUAmGLeuBRvCZHMbRsqnKLRQmGalUjeGpC 0 237 10
+qsv 305
+qsv 350
+dce 2
+sim 7654
+sm 9773
+sei 284
+aem 1375 284 1 278 6
+sm 1375
+qsv 291
+qsv 161
+sm 5122
+dce 1
+qm 309
+qrm 18
+sim 985
+dce 1

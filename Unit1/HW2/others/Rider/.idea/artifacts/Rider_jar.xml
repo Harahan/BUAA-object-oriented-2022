@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Rider:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Rider_jar</output-path>
+    <root id="archive" name="Rider.jar">
+      <element id="module-output" name="Rider" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../homework_2-master/面向对象表达式系列第二次官方包/official_2.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,3 @@
+java -jar U4T3.jar dump -s "9.mdj" -n StateMachine6 -t UMLStateMachine > 9-6.txt
+echo 'END_OF_MODEL' >> 9-6.txt
+echo 'CLASS_COUNT' >> 9-6.txt

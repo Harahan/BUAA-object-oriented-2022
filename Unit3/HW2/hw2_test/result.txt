@@ -1,0 +1,3 @@
+正在比较文件 sjh.txt 和 HYS.TXT
+FC: 找不到差异
+

@@ -1,0 +1,4 @@
+{"_parent":"AAAAAAFF+qBWK6M3Z8Y=","visibility":"public","name":"Interface1","_type":"UMLInterface","_id":"AAAAAAGBniselSQdsfE="}
+{"_parent":"AAAAAAGBniselSQdsfE=","visibility":"protected","name":"Attribute1","_type":"UMLAttribute","_id":"AAAAAAGBnisndyRHs\/s=","type":""}
+END_OF_MODEL
+CLASS_COUNT

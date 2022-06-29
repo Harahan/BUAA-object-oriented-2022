@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="homework1:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/homework1_jar</output-path>
+    <root id="archive" name="homework1.jar">
+      <element id="module-output" name="homework1" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../homework_5-main/面向对象第二单元第一次作业官方包/elevator-input-1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../homework_5-main/面向对象第二单元第一次作业官方包/timable-output.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
